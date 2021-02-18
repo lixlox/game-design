@@ -1,3 +1,3 @@
 # game-design
 
-To start this project you need to install Gdevelop and open the file.
+Il s'agit d'un fichier Gdevelop, pour l'ouvrir il suffit de télécharger Gdevelop.
