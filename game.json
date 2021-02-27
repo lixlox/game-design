@@ -456,6 +456,105 @@
         "name": "tile130.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile026.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile104.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile143.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile145.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile146.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile147.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile148.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile150.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -488,7 +587,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 0.82
       },
       "objectsGroups": [],
       "variables": [],
@@ -508,9 +607,1493 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Zombie",
+          "persistentUuid": "3cecedcf-cb21-4e86-b65e-d16811272a0c",
+          "width": 0,
+          "x": 444,
+          "y": 435,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Debug",
+          "persistentUuid": "38a8e438-73d9-48ec-8c8f-0b98f3e6d8b5",
+          "width": 0,
+          "x": 4,
+          "y": 5,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
+        {
+          "name": "Zombie",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "acceleration": 100,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 100,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "IdleRight",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile143.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile143.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile144.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile145.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile146.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile147.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile148.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile149.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile150.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IdleLeft",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile117.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile125.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile124.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile123.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile122.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile121.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile120.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile119.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile118.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile117.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IdleTop",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile104.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Top",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile112.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile111.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile110.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile109.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile108.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile107.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile106.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile105.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IdleDown",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile026.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile138.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile137.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile136.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile135.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile134.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile133.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile132.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tile131.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19.3,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 44.1,
+                            "y": 12.1
+                          },
+                          {
+                            "x": 43.9,
+                            "y": 62.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 62.7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Player",
           "tags": "",
@@ -1260,6 +2843,81 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Debug",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 0,
+              "type": "AnchorBehavior::AnchorBehavior"
+            }
+          ],
+          "string": "Loading...",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "Zombie2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": true,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 1,
+                  "sprites": []
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -1526,6 +3184,146 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Zombie",
+                "Player",
+                "200",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie",
+                "Pathfinding",
+                "!=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AngleOfDisplacement"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "0",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AngleOfDisplacement"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "0",
+                    "45"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "3"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Debug",
+                    "=",
+                    "\"Pas 0 d'angle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         }
       ],
       "layers": [
@@ -1553,6 +3351,14 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
