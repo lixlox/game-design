@@ -555,6 +555,222 @@
         "name": "Zombies images\\Zombie 1\\Tiles\\tile150.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile118.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile119.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile119.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile120.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile121.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile123.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile124.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile124.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile125.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile125.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile105.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile106.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile107.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile110.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile111.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile112.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile131.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile131.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile133.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile133.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile134.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile135.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile136.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile137.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombies images/Zombie 1/Tiles/tile138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombies images\\Zombie 1\\Tiles\\tile138.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -587,7 +803,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 0.82
       },
       "objectsGroups": [],
       "variables": [],
@@ -601,8 +817,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 352,
-          "y": 190,
+          "x": 376,
+          "y": 219,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -639,6 +855,54 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Zombie",
+          "persistentUuid": "aea366d8-3939-41ec-bb8f-00e6eb3e88c9",
+          "width": 0,
+          "x": 585,
+          "y": 123,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Zombie",
+          "persistentUuid": "d39954c2-182e-4a99-be17-6e53430db5e7",
+          "width": 0,
+          "x": 126,
+          "y": 40,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Zombie",
+          "persistentUuid": "ba565359-a537-4bd0-b275-b7cfa2b69a28",
+          "width": 0,
+          "x": 121,
+          "y": 192,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -647,9 +911,24 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "lastX",
+              "value": "0"
+            },
+            {
+              "name": "lastY",
+              "value": "0"
+            },
+            {
+              "name": "zero",
+              "value": "0"
+            }
+          ],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 100,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -658,14 +937,12 @@
               "cellWidth": 20,
               "extraBorder": 0,
               "maxSpeed": 100,
-              "name": "Pathfinding",
-              "rotateObject": false,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "rotateObject": false
             }
           ],
           "animations": [
             {
-              "name": "IdleRight",
+              "name": "IdleTop",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -674,7 +951,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile143.png",
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile104.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1013,15 +1290,15 @@
               ]
             },
             {
-              "name": "IdleLeft",
+              "name": "Left",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
+                      "hasCustomCollisionMask": false,
                       "image": "Zombies images\\Zombie 1\\Tiles\\tile117.png",
                       "points": [],
                       "originPoint": {
@@ -1035,78 +1312,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Left",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile125.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile124.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile118.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1119,30 +1329,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile123.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile119.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1155,30 +1346,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile122.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile120.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1191,30 +1363,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile121.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile121.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1227,30 +1380,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile120.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile122.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1263,30 +1397,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile119.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile123.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1299,30 +1414,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile118.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile124.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1335,30 +1431,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile117.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile125.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1371,74 +1448,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "IdleTop",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile104.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -1453,8 +1463,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile112.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile105.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1467,30 +1477,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile111.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile106.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1503,30 +1494,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile110.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile107.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1539,30 +1511,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile109.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile108.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1575,30 +1528,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile108.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile109.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1611,30 +1545,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile107.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile110.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1647,30 +1562,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile106.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile111.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1683,30 +1579,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile105.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile112.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1719,74 +1596,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "IdleDown",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile026.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -1801,8 +1611,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile138.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile131.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1815,30 +1625,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile137.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile132.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1851,30 +1642,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile136.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile133.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1887,30 +1659,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile135.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile134.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1923,30 +1676,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile134.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile135.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1959,30 +1693,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile133.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile136.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1995,30 +1710,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile132.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile137.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2031,30 +1727,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile131.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Zombies images\\Zombie 1\\Tiles\\tile138.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2067,26 +1744,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 19.3,
-                            "y": 11.5
-                          },
-                          {
-                            "x": 44.1,
-                            "y": 12.1
-                          },
-                          {
-                            "x": 43.9,
-                            "y": 62.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 62.7
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -2855,13 +2513,13 @@
           "variables": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 0,
               "leftEdgeAnchor": 0,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": true,
               "rightEdgeAnchor": 0,
-              "topEdgeAnchor": 0,
-              "type": "AnchorBehavior::AnchorBehavior"
+              "topEdgeAnchor": 0
             }
           ],
           "string": "Loading...",
@@ -2872,6 +2530,52 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "Zombie2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 200,
+              "rotateObject": true
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 1,
+                  "sprites": []
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3189,7 +2893,7 @@
               "parameters": [
                 "Zombie",
                 "Pathfinding",
-                "=",
+                "!=",
                 "0"
               ],
               "subInstructions": []
@@ -3205,63 +2909,18 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "AngleOfDisplacement"
+                    "value": "VarObjet"
                   },
                   "parameters": [
                     "Zombie",
-                    "0",
-                    "0"
+                    "zero",
+                    "<=",
+                    "abs(Zombie.X() - Zombie.Variable(lastX)) - abs(Zombie.Y() - Zombie.Variable(lastY))"
                   ],
                   "subInstructions": []
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "Zombie",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "AngleOfDisplacement"
-                  },
-                  "parameters": [
-                    "Zombie",
-                    "0",
-                    "45"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "ChangeAnimation"
-                  },
-                  "parameters": [
-                    "Zombie",
-                    "=",
-                    "3"
-                  ],
-                  "subInstructions": []
-                },
                 {
                   "type": {
                     "inverted": false,
@@ -3270,7 +2929,219 @@
                   "parameters": [
                     "Debug",
                     "=",
-                    "\"Pas 0 d'angle\""
+                    "\"Mouvement : Y\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "lastX",
+                        "<=",
+                        "Zombie.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "lastX",
+                        ">",
+                        "Zombie.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "zero",
+                    ">",
+                    "abs(Zombie.X() - Zombie.Variable(lastX)) - abs(Zombie.Y() - Zombie.Variable(lastY))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Debug",
+                    "=",
+                    "\"Mouvement : X\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "lastY",
+                        "<=",
+                        "Zombie.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "=",
+                        "4"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "lastY",
+                        ">",
+                        "Zombie.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "lastX",
+                    "=",
+                    "Zombie.X()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "lastY",
+                    "=",
+                    "Zombie.Y()"
                   ],
                   "subInstructions": []
                 }
@@ -3278,6 +3149,41 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie",
+                "Pathfinding",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Zombie",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
