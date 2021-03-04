@@ -771,6 +771,672 @@
         "name": "Zombies images\\Zombie 1\\Tiles\\tile138.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile104.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile143.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile144.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile145.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile146.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile147.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile148.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile150.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile117.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile118.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile119.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile119.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile120.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile121.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile123.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile124.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile124.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile125.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile125.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile105.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile106.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile107.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile110.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile111.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile112.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile131.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile131.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile133.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile133.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile134.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile135.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile136.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile137.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile138.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile143.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile145.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile146.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile147.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile148.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile150.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile118.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile119.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile119.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile120.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile121.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile123.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile124.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile124.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile125.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile125.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile104.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile105.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile106.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile107.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile110.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile111.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile112.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile130.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile130.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile131.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile131.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile133.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile133.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile134.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile135.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile136.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile137.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Player\\tile138.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile096.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile096.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile070.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile070.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 1/Tiles/tile032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 1\\Tiles\\tile032.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -803,7 +1469,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.82
+        "zoomFactor": 0.79
       },
       "objectsGroups": [],
       "variables": [],
@@ -846,10 +1512,10 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Debug",
+          "name": "InfoHP",
           "persistentUuid": "38a8e438-73d9-48ec-8c8f-0b98f3e6d8b5",
           "width": 0,
-          "x": 4,
+          "x": 5,
           "y": 5,
           "zOrder": 5,
           "numberProperties": [],
@@ -923,14 +1589,22 @@
             {
               "name": "zero",
               "value": "0"
+            },
+            {
+              "name": "cooldownToMove",
+              "value": "0"
+            },
+            {
+              "name": "cooldownToBlink",
+              "value": "10"
             }
           ],
           "behaviors": [
             {
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 100,
               "allowDiagonals": false,
+              "acceleration": 100,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "cellHeight": 20,
@@ -951,7 +1625,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile104.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile104.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -967,20 +1641,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
@@ -999,7 +1673,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile143.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile143.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1015,27 +1689,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile144.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile144.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1051,27 +1725,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile145.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile145.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1087,27 +1761,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile146.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile146.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1123,27 +1797,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile147.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile147.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1159,27 +1833,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile148.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile148.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1195,27 +1869,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile149.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile149.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1231,27 +1905,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile150.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile150.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1267,20 +1941,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 19.3,
-                            "y": 11.5
+                            "x": 30.6909,
+                            "y": 36.5091
                           },
                           {
-                            "x": 44.1,
-                            "y": 12.1
+                            "x": 35.3455,
+                            "y": 36.8
                           },
                           {
-                            "x": 43.9,
-                            "y": 62.5
+                            "x": 35.6364,
+                            "y": 46.6909
                           },
                           {
-                            "x": 19.5,
-                            "y": 62.7
+                            "x": 29.5273,
+                            "y": 46.6909
                           }
                         ]
                       ]
@@ -1298,8 +1972,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile117.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile117.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1312,11 +1986,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile118.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile118.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1329,11 +2022,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile119.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile119.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1346,11 +2058,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile120.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile120.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1363,11 +2094,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile121.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile121.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1380,11 +2130,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile122.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile122.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1397,11 +2166,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile123.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile123.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1414,11 +2202,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile124.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile124.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1431,11 +2238,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile125.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile125.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1448,7 +2274,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1463,8 +2308,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile105.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile105.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1477,11 +2322,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile106.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile106.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1494,11 +2358,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile107.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile107.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1511,11 +2394,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile108.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile108.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1528,11 +2430,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile109.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile109.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1545,11 +2466,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile110.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile110.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1562,11 +2502,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile111.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile111.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1579,11 +2538,378 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
                     },
                     {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile112.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile131.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile132.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile133.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile134.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile135.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile136.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile137.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Zombie 1\\Tiles\\tile138.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 30.6909,
+                            "y": 36.5091
+                          },
+                          {
+                            "x": 35.3455,
+                            "y": 36.8
+                          },
+                          {
+                            "x": 35.6364,
+                            "y": 46.6909
+                          },
+                          {
+                            "x": 29.5273,
+                            "y": 46.6909
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
                       "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile112.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile096.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1603,16 +2929,16 @@
               ]
             },
             {
-              "name": "Down",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile131.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile070.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1626,10 +2952,22 @@
                         "y": 0
                       },
                       "customCollisionMask": []
-                    },
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile132.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1643,95 +2981,22 @@
                         "y": 0
                       },
                       "customCollisionMask": []
-                    },
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile133.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile134.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile135.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile136.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile137.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Zombies images\\Zombie 1\\Tiles\\tile138.png",
+                      "image": "Images\\Zombie 1\\Tiles\\tile032.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1757,7 +3022,20 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "HP",
+              "value": "10"
+            },
+            {
+              "name": "InvulnerableCooldown",
+              "value": "0"
+            },
+            {
+              "name": "cooldownToBlink",
+              "value": "10"
+            }
+          ],
           "behaviors": [
             {
               "name": "TopDownMovement",
@@ -1784,8 +3062,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile143.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile026.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1798,7 +3076,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1813,8 +3110,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile150.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile143.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1827,11 +3124,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile149.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile144.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1844,11 +3160,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile148.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile145.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1861,11 +3196,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile147.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile146.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1878,11 +3232,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile146.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile147.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1895,11 +3268,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile145.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile148.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1912,11 +3304,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile144.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile149.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1929,11 +3340,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile143.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile150.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1946,7 +3376,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1961,8 +3410,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile117.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile117.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1975,7 +3424,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1990,8 +3458,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile125.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile117.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2004,11 +3472,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile124.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile118.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2021,11 +3508,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile123.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile119.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2038,11 +3544,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile122.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile120.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2055,11 +3580,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile121.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile121.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2072,11 +3616,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile120.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile122.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2089,11 +3652,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile119.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile123.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2106,11 +3688,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile118.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile124.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2123,11 +3724,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile117.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile125.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2140,7 +3760,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -2155,8 +3794,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile104.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile104.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2169,7 +3808,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -2184,8 +3842,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile112.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile104.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2198,11 +3856,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile111.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile105.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2215,11 +3892,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile110.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile106.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2232,11 +3928,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile109.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile107.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2249,11 +3964,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile108.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile108.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2266,11 +4000,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile107.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile109.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2283,11 +4036,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile106.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile110.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2300,11 +4072,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile105.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile111.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2317,7 +4108,62 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile112.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -2332,8 +4178,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile130.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile130.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2346,7 +4192,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -2361,8 +4226,8 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile138.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile131.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2375,11 +4240,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile137.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile132.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2392,11 +4276,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile136.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile133.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2409,11 +4312,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile135.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile134.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2426,11 +4348,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile134.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile135.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2443,11 +4384,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile133.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile136.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2460,11 +4420,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile132.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile137.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2477,11 +4456,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "tile131.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images\\Player\\tile138.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2494,7 +4492,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22.5778,
+                            "y": 16.8889
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 17.2444
+                          },
+                          {
+                            "x": 40.7111,
+                            "y": 60.6222
+                          },
+                          {
+                            "x": 22.9333,
+                            "y": 59.5556
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -2505,7 +4522,7 @@
         {
           "bold": false,
           "italic": false,
-          "name": "Debug",
+          "name": "InfoHP",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -2522,7 +4539,7 @@
               "topEdgeAnchor": 0
             }
           ],
-          "string": "Loading...",
+          "string": "HP ❤ Loading...",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -2545,7 +4562,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player animation",
+          "comment": "Player animation #1 : Moving",
           "comment2": ""
         },
         {
@@ -2824,7 +4841,142 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Zombie pathfinding : Under a certain distance from the player, Zombie goes to the player",
+          "comment": "Player animation #2 : Blinking (invulnerability)",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "cooldownToBlink",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "cooldownToBlink",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "382 - Player.Opacity()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "cooldownToBlink",
+                    "=",
+                    "15"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "255"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zombie pathfinding : Under a certain distance from the player, Zombie goes to the player\nIt isn't applied if Zombie is stunned.",
           "comment2": ""
         },
         {
@@ -2840,10 +4992,32 @@
               "parameters": [
                 "Zombie",
                 "Player",
-                "200",
+                "250",
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
             }
           ],
           "actions": [
@@ -2919,20 +5093,7 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::String"
-                  },
-                  "parameters": [
-                    "Debug",
-                    "=",
-                    "\"Mouvement : Y\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
+              "actions": [],
               "events": [
                 {
                   "disabled": false,
@@ -3025,20 +5186,7 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TextObject::String"
-                  },
-                  "parameters": [
-                    "Debug",
-                    "=",
-                    "\"Mouvement : X\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
+              "actions": [],
               "events": [
                 {
                   "disabled": false,
@@ -3198,21 +5346,476 @@
               "subInstructions": []
             }
           ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToMove",
+                    ">",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Animation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "<=",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "+",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zombie animation #3 : Blinking",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeAnimation"
+                "value": "ModVarObjet"
               },
               "parameters": [
                 "Zombie",
+                "cooldownToBlink",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToBlink",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "382 - Zombie.Opacity()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToBlink",
+                    "=",
+                    "15"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie",
+                "cooldownToMove",
                 "=",
                 "0"
               ],
               "subInstructions": []
             }
           ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Zombie",
+                "=",
+                "255"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "InfoHP field update : Updates the HP field at the top left of the screen",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "InfoHP",
+                "=",
+                "\"HP ❤ \" + Player.VariableString(HP)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zombie attack : Player loses HP when colliding with a Zombie, the Zombie is stunned, and Player gets invulnerable",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Zombie",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "InvulnerableCooldown",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "HP",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie",
+                "Pathfinding",
+                "",
+                "Zombie.X()",
+                "Zombie.Y()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie",
+                "cooldownToMove",
+                "=",
+                "RandomInRange(25,100)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "=",
+                "100"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie",
+                "cooldownToMove",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
         }
       ],
       "layers": [
