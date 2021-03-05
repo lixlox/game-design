@@ -1469,7 +1469,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.79
+        "zoomFactor": 0.55
       },
       "objectsGroups": [],
       "variables": [],
@@ -1510,7 +1510,7 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "UI",
           "locked": false,
           "name": "InfoHP",
           "persistentUuid": "38a8e438-73d9-48ec-8c8f-0b98f3e6d8b5",
@@ -1547,8 +1547,8 @@
           "name": "Zombie",
           "persistentUuid": "d39954c2-182e-4a99-be17-6e53430db5e7",
           "width": 0,
-          "x": 91,
-          "y": -2,
+          "x": 581,
+          "y": 213,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1563,9 +1563,25 @@
           "name": "Zombie",
           "persistentUuid": "ba565359-a537-4bd0-b275-b7cfa2b69a28",
           "width": 0,
-          "x": 38,
-          "y": 199,
+          "x": 262,
+          "y": 223,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "5b97ef07-9a32-425f-9fd5-37ed992367ca",
+          "width": 0,
+          "x": 446,
+          "y": 185,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4528,17 +4544,7 @@
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
-          "behaviors": [
-            {
-              "name": "Anchor",
-              "type": "AnchorBehavior::AnchorBehavior",
-              "bottomEdgeAnchor": 0,
-              "leftEdgeAnchor": 0,
-              "relativeToOriginalWindowSize": true,
-              "rightEdgeAnchor": 0,
-              "topEdgeAnchor": 0
-            }
-          ],
+          "behaviors": [],
           "string": "HP ❤ Loading...",
           "font": "",
           "characterSize": 20,
@@ -4547,6 +4553,15 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "events": [
@@ -5816,6 +5831,29 @@
           },
           "comment": "",
           "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -5840,13 +5878,20 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 8299488,
+          "ambientLightColorR": -1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior"
-        },
         {
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior"
