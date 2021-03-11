@@ -1437,6 +1437,492 @@
         "name": "Images\\Zombie 1\\Tiles\\tile032.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile151.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile151.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile095.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile095.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile070.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile070.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile0002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile182.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile182.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile1822.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile1822.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile234.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile234.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/Floor_Tile_Aged_1024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\Floor_Tile_Aged_1024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile143.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile145.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile146.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile147.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile148.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile150.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile151.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile151.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile118.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile119.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile119.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile120.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile121.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile123.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile124.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile124.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile125.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile125.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile104.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile105.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile106.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile107.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile110.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile111.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile112.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile130.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile130.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile131.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile131.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile133.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile133.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile134.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile135.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile136.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile137.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile138.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile095.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile095.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile070.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile070.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile234.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile234.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Floor_Tile_Aged_512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Tile_Aged_512.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1469,7 +1955,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.55
+        "zoomFactor": 0.622
       },
       "objectsGroups": [],
       "variables": [],
@@ -1483,25 +1969,9 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 376,
-          "y": 219,
+          "x": 429,
+          "y": 229,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "3cecedcf-cb21-4e86-b65e-d16811272a0c",
-          "width": 0,
-          "x": 504,
-          "y": 474,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1528,12 +1998,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "aea366d8-3939-41ec-bb8f-00e6eb3e88c9",
+          "name": "Zombie2",
+          "persistentUuid": "f229b0a8-42e4-4482-8936-e8f3bb1f58bf",
           "width": 0,
-          "x": 678,
-          "y": 53,
-          "zOrder": 6,
+          "x": 219,
+          "y": 145,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1545,43 +2015,27 @@
           "layer": "",
           "locked": false,
           "name": "Zombie",
-          "persistentUuid": "d39954c2-182e-4a99-be17-6e53430db5e7",
+          "persistentUuid": "236b4b2f-4775-4d3f-881a-29232baf24c6",
           "width": 0,
-          "x": 581,
-          "y": 213,
-          "zOrder": 7,
+          "x": 564,
+          "y": 177,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 419,
           "layer": "",
           "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "ba565359-a537-4bd0-b275-b7cfa2b69a28",
-          "width": 0,
-          "x": 262,
-          "y": 223,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "persistentUuid": "5b97ef07-9a32-425f-9fd5-37ed992367ca",
-          "width": 0,
-          "x": 446,
-          "y": 185,
-          "zOrder": 9,
+          "name": "FloorTile",
+          "persistentUuid": "c9674180-4426-4373-88d4-2677d531d17a",
+          "width": 383,
+          "x": 0,
+          "y": 31,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4555,13 +5009,890 @@
           }
         },
         {
-          "name": "NewObject",
+          "name": "Floor",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
-          "animations": []
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Downloads\\Floor_Tile_Aged_1024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zombie2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 100,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 100,
+              "rotateObject": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "IdleTop",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile143.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile144.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile145.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile146.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile147.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile148.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile149.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile150.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile151.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile117.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile118.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile119.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile120.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile121.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile122.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile123.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile124.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile125.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Top",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile104.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile105.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile106.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile107.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile108.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile109.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile110.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile111.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile112.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile130.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile131.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile132.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile133.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile134.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile135.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile136.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile137.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile138.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile095.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile070.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Zombie 2\\Tiles\\tile234.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "FloorTile",
+          "tags": "",
+          "texture": "Floor_Tile_Aged_512.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -5056,6 +6387,65 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Zombie2",
+                "Player",
+                "250",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -5339,6 +6729,288 @@
             "textG": 0,
             "textR": 0
           },
+          "comment": "Zombie animation #1 : When Zombie moves, pick the right animation",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "!=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "zero",
+                    "<=",
+                    "abs(Zombie2.X() - Zombie2.Variable(lastX)) - abs(Zombie2.Y() - Zombie2.Variable(lastY))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastX",
+                        "<=",
+                        "Zombie2.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastX",
+                        ">",
+                        "Zombie2.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "zero",
+                    ">",
+                    "abs(Zombie2.X() - Zombie2.Variable(lastX)) - abs(Zombie2.Y() - Zombie2.Variable(lastY))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastY",
+                        "<=",
+                        "Zombie2.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "4"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastY",
+                        ">",
+                        "Zombie2.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Zombie animation #1.2 : Update the last registered coordinates to use in the next loop",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "lastX",
+                    "=",
+                    "Zombie2.X()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "lastY",
+                    "=",
+                    "Zombie2.Y()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
           "comment": "Zombie animation #2 : When Zombie doesn't move, set animation to showing his back",
           "comment2": ""
         },
@@ -5446,6 +7118,119 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    ">",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Animation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "<=",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "+",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         },
         {
           "disabled": false,
@@ -5580,6 +7365,134 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToBlink",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToBlink",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "382 - Zombie2.Opacity()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToBlink",
+                    "=",
+                    "15"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Zombie2",
+                "=",
+                "255"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -5820,6 +7733,198 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Zombie2",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "InvulnerableCooldown",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "HP",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "",
+                "Zombie2.X()",
+                "Zombie2.Y()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "=",
+                "RandomInRange(25,100)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "=",
+                "100"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -5854,6 +7959,14 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
@@ -5880,7 +7993,7 @@
           "effects": []
         },
         {
-          "ambientLightColorB": 1702453580,
+          "ambientLightColorB": 1702453632,
           "ambientLightColorG": 8299488,
           "ambientLightColorR": -1,
           "followBaseLayerCamera": false,
@@ -5895,6 +8008,10 @@
         {
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
           "name": "TopDownMovement",

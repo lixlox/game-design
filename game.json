@@ -1437,6 +1437,105 @@
         "name": "Images\\Zombie 1\\Tiles\\tile032.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile151.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile151.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile095.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile095.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile070.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile070.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile0002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile182.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile182.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile1822.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile1822.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile234.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile234.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1469,7 +1568,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.55
+        "zoomFactor": 0.622
       },
       "objectsGroups": [],
       "variables": [],
@@ -1486,22 +1585,6 @@
           "x": 376,
           "y": 219,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "3cecedcf-cb21-4e86-b65e-d16811272a0c",
-          "width": 0,
-          "x": 504,
-          "y": 474,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1528,12 +1611,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "aea366d8-3939-41ec-bb8f-00e6eb3e88c9",
+          "name": "NewObject",
+          "persistentUuid": "5b97ef07-9a32-425f-9fd5-37ed992367ca",
           "width": 0,
-          "x": 678,
-          "y": 53,
-          "zOrder": 6,
+          "x": 446,
+          "y": 185,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1544,28 +1627,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "d39954c2-182e-4a99-be17-6e53430db5e7",
+          "name": "Zombie2",
+          "persistentUuid": "bffbc7ba-4c11-45b5-b19b-e6770eee46ba",
           "width": 0,
-          "x": 581,
-          "y": 213,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "ba565359-a537-4bd0-b275-b7cfa2b69a28",
-          "width": 0,
-          "x": 262,
-          "y": 223,
-          "zOrder": 8,
+          "x": 148,
+          "y": 87,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4537,6 +4604,844 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "name": "Zombie2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "acceleration": 100,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "maxSpeed": 100,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile143.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile144.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile145.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile146.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile147.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile148.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile149.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile150.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile151.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile117.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile118.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile119.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile120.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile121.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile122.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile123.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile124.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile125.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Top",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile104.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile105.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile106.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile107.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile108.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile109.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile110.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile111.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile112.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile130.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile131.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile132.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile133.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile134.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile135.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile136.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile137.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile138.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile095.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile070.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tile234.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -5031,6 +5936,65 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Zombie2",
+                "Player",
+                "250",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -5314,6 +6278,288 @@
             "textG": 0,
             "textR": 0
           },
+          "comment": "Zombie animation #1 : When Zombie moves, pick the right animation",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "!=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "zero",
+                    "<=",
+                    "abs(Zombie2.X() - Zombie2.Variable(lastX)) - abs(Zombie2.Y() - Zombie2.Variable(lastY))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastX",
+                        "<=",
+                        "Zombie2.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastX",
+                        ">",
+                        "Zombie2.X()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "zero",
+                    ">",
+                    "abs(Zombie2.X() - Zombie2.Variable(lastX)) - abs(Zombie2.Y() - Zombie2.Variable(lastY))"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastY",
+                        "<=",
+                        "Zombie2.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "4"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "lastY",
+                        ">",
+                        "Zombie2.Y()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "Zombie2",
+                        "=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Zombie animation #1.2 : Update the last registered coordinates to use in the next loop",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "lastX",
+                    "=",
+                    "Zombie2.X()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "lastY",
+                    "=",
+                    "Zombie2.Y()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
           "comment": "Zombie animation #2 : When Zombie doesn't move, set animation to showing his back",
           "comment2": ""
         },
@@ -5421,6 +6667,119 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::Speed"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    ">",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Animation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "<=",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "+",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         },
         {
           "disabled": false,
@@ -5555,6 +6914,134 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToBlink",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToBlink",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "=",
+                    "382 - Zombie2.Opacity()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToBlink",
+                    "=",
+                    "15"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Zombie2",
+                "=",
+                "255"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -5795,6 +7282,198 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Zombie2",
+                "Player",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Zombie2",
+                    "cooldownToMove",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "InvulnerableCooldown",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "HP",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie2",
+                "Pathfinding",
+                "",
+                "Zombie2.X()",
+                "Zombie2.Y()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "=",
+                "RandomInRange(25,100)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "=",
+                "100"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Zombie2",
+                "cooldownToMove",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "InvulnerableCooldown",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -5829,6 +7508,14 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
@@ -5855,7 +7542,7 @@
           "effects": []
         },
         {
-          "ambientLightColorB": 1702453580,
+          "ambientLightColorB": 1702453632,
           "ambientLightColorG": 8299488,
           "ambientLightColorR": -1,
           "followBaseLayerCamera": false,
