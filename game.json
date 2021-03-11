@@ -2332,6 +2332,15 @@
         "name": "sol.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Walls & Floor/Sol.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Walls & Floor\\Sol.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7914,7 +7923,7 @@
           "height": 32,
           "name": "FloorTile",
           "tags": "",
-          "texture": "sol.png",
+          "texture": "Images\\Walls & Floor\\Sol.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
