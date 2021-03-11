@@ -2323,6 +2323,15 @@
         "name": "Images\\Zombie 2\\Tiles\\nScLQALK_235.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sol.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sol.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2355,7 +2364,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.394
+        "zoomFactor": 0.226
       },
       "objectsGroups": [],
       "variables": [],
@@ -7905,7 +7914,7 @@
           "height": 32,
           "name": "FloorTile",
           "tags": "",
-          "texture": "Images\\Floor_Tile_Aged_512.png",
+          "texture": "sol.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -10046,10 +10055,6 @@
         {
           "name": "PathfindingObstacle",
           "type": "PathfindingBehavior::PathfindingObstacleBehavior"
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
           "name": "TopDownMovement",
