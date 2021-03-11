@@ -1536,6 +1536,415 @@
         "name": "tile234.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/Floor_Tile_Aged_1024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\Floor_Tile_Aged_1024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile143.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile144.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile144.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile145.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile145.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile146.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile146.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile147.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile147.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile148.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile148.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile149.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile149.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile150.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile150.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile151.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile151.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile118.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile118.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile119.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile119.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile120.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile120.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile121.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile121.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile123.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile123.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile124.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile124.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile125.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile125.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile104.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile105.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile106.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile107.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile110.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile111.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile112.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile130.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile130.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile131.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile131.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile133.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile133.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile134.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile134.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile135.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile136.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile137.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile138.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile095.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile095.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile070.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile070.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Zombie 2/Tiles/tile234.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Zombie 2\\Tiles\\tile234.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Floor_Tile_Aged_512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Tile_Aged_512.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Floor_Tile_Aged_512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Floor_Tile_Aged_512.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Wall for Blue Floor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Wall for Blue Floor.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Abstract Platformer Pack (370 assets)/PNG/Tiles/tiled_Wall for Blue Floor.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -1568,7 +1977,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.622
+        "zoomFactor": 0.79
       },
       "objectsGroups": [],
       "variables": [],
@@ -1582,9 +1991,9 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 376,
-          "y": 219,
-          "zOrder": 1,
+          "x": 429,
+          "y": 229,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1607,16 +2016,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 71,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
-          "persistentUuid": "5b97ef07-9a32-425f-9fd5-37ed992367ca",
-          "width": 0,
-          "x": 446,
-          "y": 185,
-          "zOrder": 9,
+          "name": "Zombie2",
+          "persistentUuid": "f229b0a8-42e4-4482-8936-e8f3bb1f58bf",
+          "width": 68,
+          "x": 218,
+          "y": 145,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1627,12 +2036,28 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Zombie2",
-          "persistentUuid": "bffbc7ba-4c11-45b5-b19b-e6770eee46ba",
+          "name": "Zombie",
+          "persistentUuid": "236b4b2f-4775-4d3f-881a-29232baf24c6",
           "width": 0,
-          "x": 148,
-          "y": 87,
-          "zOrder": 10,
+          "x": 564,
+          "y": 177,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 715,
+          "layer": "",
+          "locked": false,
+          "name": "FloorTile",
+          "persistentUuid": "8041f35e-5ee3-4e69-bdb9-fa5899bbb2a5",
+          "width": 960,
+          "x": -73,
+          "y": -45,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4606,13 +5031,51 @@
           }
         },
         {
-          "name": "NewObject",
+          "name": "Floor",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
-          "animations": []
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\..\\Downloads\\Floor_Tile_Aged_1024.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zombie2",
@@ -4622,6 +5085,8 @@
           "variables": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 100,
               "allowDiagonals": false,
               "angleOffset": 0,
@@ -4630,14 +5095,12 @@
               "cellWidth": 20,
               "extraBorder": 0,
               "maxSpeed": 100,
-              "name": "Pathfinding",
-              "rotateObject": false,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "rotateObject": false
             }
           ],
           "animations": [
             {
-              "name": "Idle",
+              "name": "IdleTop",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4646,7 +5109,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile000.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile000.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4675,7 +5138,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile143.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile143.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4692,7 +5155,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile144.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile144.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4709,7 +5172,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile145.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile145.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4726,7 +5189,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile146.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile146.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4743,7 +5206,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile147.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile147.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4760,7 +5223,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile148.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile148.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4777,7 +5240,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile149.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile149.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4794,7 +5257,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile150.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile150.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4811,7 +5274,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile151.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile151.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4840,7 +5303,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile117.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile117.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4857,7 +5320,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile118.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile118.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4874,7 +5337,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile119.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile119.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4891,7 +5354,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile120.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile120.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4908,7 +5371,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile121.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile121.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4925,7 +5388,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile122.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile122.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4942,7 +5405,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile123.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile123.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4959,7 +5422,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile124.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile124.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4976,7 +5439,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile125.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile125.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5005,7 +5468,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile104.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile104.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5022,7 +5485,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile105.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile105.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5039,7 +5502,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile106.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile106.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5056,7 +5519,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile107.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile107.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5073,7 +5536,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile108.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile108.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5090,7 +5553,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile109.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile109.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5107,7 +5570,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile110.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile110.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5124,7 +5587,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile111.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile111.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5141,7 +5604,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile112.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile112.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5170,7 +5633,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile130.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile130.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5187,7 +5650,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile131.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile131.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5204,7 +5667,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile132.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile132.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5221,7 +5684,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile133.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile133.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5238,7 +5701,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile134.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile134.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5255,7 +5718,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile135.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile135.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5272,7 +5735,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile136.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile136.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5289,7 +5752,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile137.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile137.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5306,7 +5769,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile138.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile138.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5335,7 +5798,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile095.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile095.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5364,7 +5827,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile070.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile070.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5393,7 +5856,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile002.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5422,7 +5885,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "tile234.png",
+                      "image": "Images\\Zombie 2\\Tiles\\tile234.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5442,6 +5905,16 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "FloorTile",
+          "tags": "",
+          "texture": "Images\\Floor_Tile_Aged_512.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -7557,6 +8030,10 @@
         {
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
           "name": "TopDownMovement",
