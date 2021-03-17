@@ -3885,22 +3885,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 3131,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "cb7be333-351b-4513-8c9a-de3c8771b27a",
-          "width": 48,
-          "x": 5517,
-          "y": -1106,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 599,
           "layer": "",
           "locked": false,
@@ -9074,52 +9058,6 @@
               "type": "PathfindingBehavior::PathfindingObstacleBehavior",
               "cost": 2,
               "impassable": true
-            }
-          ]
-        },
-        {
-          "name": "Tuyau_vertical",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Images\\Walls & Floor\\Vertical wall.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
