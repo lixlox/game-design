@@ -2458,6 +2458,33 @@
         "name": "Images\\Walls & Floor\\Tuyau_vertical.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Walls & Floor/Horizontal wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Walls & Floor\\Horizontal wall.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Walls & Floor/Vertical wall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Walls & Floor\\Vertical wall.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Walls & Floor/Vertical wall short.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Walls & Floor\\Vertical wall short.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2490,7 +2517,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.264
+        "zoomFactor": 0.43
       },
       "objectsGroups": [],
       "variables": [],
@@ -2504,8 +2531,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 2,
-          "y": 296,
+          "x": 34,
+          "y": 309,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -2562,14 +2589,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "07ee75a8-de62-4581-aac4-49c357ee08e6",
-          "width": 427,
-          "x": -109,
-          "y": 375,
+          "width": 454,
+          "x": -136,
+          "y": 384,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2578,14 +2605,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 19,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "1ec85a55-16b3-4684-bc9a-633902c36108",
           "width": 410,
           "x": -111,
-          "y": 259,
+          "y": 228,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2594,14 +2621,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 21,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "97eb2d46-038c-4c90-8753-63f733dba137",
-          "width": 484,
-          "x": 1493,
-          "y": 805,
+          "width": 513,
+          "x": 1529,
+          "y": 791,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2610,14 +2637,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 17,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "c3bb4b55-875a-4433-ad73-e19aa45f12d0",
           "width": 256,
-          "x": 137,
-          "y": 452,
+          "x": 143,
+          "y": 527,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2629,11 +2656,11 @@
           "height": 22,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "ecaf25cd-00bb-424b-87c4-92714a0fff2d",
           "width": 5639,
-          "x": -123,
-          "y": -1107,
+          "x": -146,
+          "y": -1106,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2645,11 +2672,11 @@
           "height": 35,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "f9390cf2-ee0d-42d2-adb6-7a4faadf8043",
           "width": 5611,
-          "x": -87,
-          "y": 1981,
+          "x": -142,
+          "y": 1979,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2658,12 +2685,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 24,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "94d7d01f-80b5-4b7b-9aaa-63ebf6b86283",
-          "width": 2987,
+          "width": 3012,
           "x": -102,
           "y": 1009,
           "zOrder": 12,
@@ -2677,7 +2704,7 @@
           "height": 8,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "1ee8966a-b38e-4a52-90ec-82d909554137",
           "width": 977,
           "x": -114,
@@ -2690,14 +2717,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 19,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "6bef2319-a93b-4c2a-902c-b2ec09625152",
-          "width": 2998,
-          "x": -114,
-          "y": -431,
+          "width": 3029,
+          "x": -115,
+          "y": -470,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2706,14 +2733,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 21,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "506085ec-cf05-41a3-a3b0-f3ae00c90cd4",
           "width": 977,
           "x": 49,
-          "y": -222,
+          "y": -236,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2722,14 +2749,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 21,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "090f91db-8921-4e47-9fd0-87a36b36da0d",
-          "width": 925,
-          "x": 1086,
-          "y": 613,
+          "width": 976,
+          "x": 1052,
+          "y": 598,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2738,14 +2765,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 23,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "47f34190-a467-486a-8411-b60024505969",
-          "width": 925,
-          "x": 1078,
-          "y": 61,
+          "width": 1066,
+          "x": 1047,
+          "y": 51,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2760,8 +2787,8 @@
           "name": "Zombie",
           "persistentUuid": "87f32c80-3043-4107-bd90-b63e3447303a",
           "width": 0,
-          "x": 1672,
-          "y": -417,
+          "x": 1668,
+          "y": -384,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3253,7 +3280,7 @@
           "height": 20,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "2abfd9f7-b490-47be-a7d8-2b5e94af5fd0",
           "width": 941,
           "x": 3761,
@@ -3269,7 +3296,7 @@
           "height": 20,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "f36d6c72-4dd4-4cd0-989f-14d233eaa6c0",
           "width": 2022,
           "x": 2895,
@@ -3285,7 +3312,7 @@
           "height": 19,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "b38d06e9-e4dc-45a5-8a7b-f32ff031bfae",
           "width": 634,
           "x": 4904,
@@ -3301,10 +3328,10 @@
           "height": 17,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "f6715514-4722-4231-ab55-f5f475925c0b",
           "width": 1826,
-          "x": 2877,
+          "x": 2879,
           "y": 240,
           "zOrder": 12,
           "numberProperties": [],
@@ -3464,8 +3491,8 @@
           "name": "FloorTile",
           "persistentUuid": "fa93e58f-72ee-4b11-92a7-817f02d38eb7",
           "width": 5676,
-          "x": -108,
-          "y": -1107,
+          "x": -114,
+          "y": -1131,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3474,14 +3501,14 @@
         {
           "angle": -1.23042e-15,
           "customSize": true,
-          "height": 19,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "3ef57069-f4db-42bc-a788-ff93140d378d",
           "width": 259,
-          "x": 130,
-          "y": 200,
+          "x": 139,
+          "y": 86,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3506,14 +3533,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 23,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "022c0aa5-2c30-4402-9a7f-1fee74a857c8",
-          "width": 208,
-          "x": 2002,
-          "y": 464,
+          "width": 675,
+          "x": 2018,
+          "y": 465,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3586,14 +3613,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 20,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "bf601deb-1b30-47d9-a09e-84bbc74c4c31",
-          "width": 732,
-          "x": 1996,
-          "y": 194,
+          "width": 711,
+          "x": 2015,
+          "y": 180,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3602,10 +3629,10 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 17,
+          "height": 65,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "a82a6bfb-a56e-4f13-b5e0-9f26e25c8b97",
           "width": 484,
           "x": 2396,
@@ -3618,14 +3645,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 19,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "83ad2493-793a-47d8-b630-c7ba10d32821",
-          "width": 484,
+          "width": 503,
           "x": 2412,
-          "y": 96,
+          "y": 74,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3688,8 +3715,8 @@
           "name": "Zombie2",
           "persistentUuid": "833b6da0-d285-480d-9165-d27002e28d4e",
           "width": 68,
-          "x": 2613,
-          "y": 466,
+          "x": 2623,
+          "y": 525,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3707,22 +3734,6 @@
           "x": 1669,
           "y": -287,
           "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_horizontal",
-          "persistentUuid": "e5b7c7a9-0e58-4ec6-95ba-0d314c0c58c2",
-          "width": 510,
-          "x": 2208,
-          "y": 464,
-          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3778,14 +3789,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 28,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "persistentUuid": "7ceed5d5-d1b5-4438-b268-7c8bfbcf3707",
           "width": 173,
           "x": 1574,
-          "y": -207,
+          "y": -222,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3800,8 +3811,8 @@
           "name": "Zombie2",
           "persistentUuid": "99d8f195-938d-44f9-8024-3df9bbd4a987",
           "width": 68,
-          "x": 2277,
-          "y": 476,
+          "x": 2276,
+          "y": 516,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3874,22 +3885,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 3114,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "5b32ad05-c6e6-4e05-9bbe-3a02f6b8b12d",
-          "width": 52,
-          "x": -158,
-          "y": -1108,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 3131,
           "layer": "",
           "locked": false,
@@ -3906,143 +3901,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 766,
+          "height": 599,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "0bcfdccb-65aa-4150-abb0-7fd01e26a336",
-          "width": 48,
-          "x": 4883,
-          "y": 101,
-          "zOrder": 17,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 611,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "d968ed13-7742-4931-82b5-3a1c4101e8a2",
-          "width": 48,
-          "x": 4683,
-          "y": 247,
-          "zOrder": 18,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 609,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "7af7dc63-886f-4291-9881-1a9ecc8444ab",
-          "width": 25,
-          "x": 393,
-          "y": -7,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 673,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "d0c49633-05de-4e3b-b457-766872273df0",
-          "width": 29,
-          "x": 588,
-          "y": 338,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 804,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "cf2b9cc7-78f2-4168-9bb6-d76f01f9fe63",
-          "width": 21,
-          "x": 782,
-          "y": -201,
-          "zOrder": 21,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 136,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "8d96a24b-c970-48f4-a4fd-0511ceb760c8",
-          "width": 30,
-          "x": 1047,
-          "y": 55,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 127,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "ae887ca5-940e-4420-aa11-e09b2a9c08bc",
-          "width": 42,
-          "x": 1044,
-          "y": 509,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 209,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "91e66d6d-44ed-4f73-aed3-63db22dd5ef9",
-          "width": 48,
-          "x": 1169,
-          "y": 245,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 157,
-          "layer": "",
-          "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "a30af50a-96ff-475f-9a0e-4f3f96da3c4a",
-          "width": 48,
-          "x": 1319,
-          "y": 385,
-          "zOrder": 25,
+          "name": "VerticalWall",
+          "persistentUuid": "230b1058-9f54-45e5-9a4b-adce108b8f87",
+          "width": 16,
+          "x": 395,
+          "y": -6,
+          "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4053,12 +3920,44 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "0ff79456-a5a7-4aa9-b9d5-982b42bb5c79",
+          "name": "VerticalWallShort",
+          "persistentUuid": "428a7563-c807-43c6-92d6-2ea5b61f0022",
           "width": 0,
-          "x": 1321,
-          "y": 632,
-          "zOrder": 26,
+          "x": 395,
+          "y": 548,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 670,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "9cb62799-4417-4b5c-835f-923e1fad2ea0",
+          "width": 16,
+          "x": 599,
+          "y": 339,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 826,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "a00fae2b-bfc4-4d41-a704-d6df6d9bc2fe",
+          "width": 16,
+          "x": 764,
+          "y": -223,
+          "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4069,12 +3968,92 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "bc6a2b22-0630-48f6-a6f8-ea72816ab0cb",
+          "name": "VerticalWallShort",
+          "persistentUuid": "6e950689-bdf7-4fdf-9e15-fad1e4543794",
           "width": 0,
-          "x": 1450,
-          "y": 634,
-          "zOrder": 27,
+          "x": 764,
+          "y": 592,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 131,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "9fbc6d4e-d5f2-41e4-b02b-e08cfc5367fb",
+          "width": 15,
+          "x": 1052,
+          "y": 467,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 131,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "4f045d4c-aafc-4fc9-891b-6ec57f51291b",
+          "width": 15,
+          "x": 1066,
+          "y": 467,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 294,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "fae80bba-96e1-44ac-b9d6-7237ff9b4873",
+          "width": 16,
+          "x": 1331,
+          "y": 611,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 294,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "fa066f5e-66c9-4153-9dd1-8cd7153e5ce9",
+          "width": 16,
+          "x": 1331,
+          "y": 611,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 294,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "8246e842-5475-4401-ae98-411e5ed1b6b5",
+          "width": 16,
+          "x": 1479,
+          "y": 611,
+          "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4085,12 +4064,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "330012a5-4f53-402d-b812-c083148185f8",
+          "name": "VerticalWallShort",
+          "persistentUuid": "6c1f5766-9bc2-4887-87fd-241cd8a3c9aa",
           "width": 0,
-          "x": 1305,
-          "y": -248,
-          "zOrder": 28,
+          "x": 1331,
+          "y": 865,
+          "zOrder": 46,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4101,12 +4080,44 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "637aff83-d561-452a-bda7-caba2d535d81",
+          "name": "VerticalWallShort",
+          "persistentUuid": "10502161-6957-4b67-a1f0-8568d35735d0",
           "width": 0,
-          "x": 1461,
-          "y": -415,
-          "zOrder": 29,
+          "x": 1479,
+          "y": 866,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "5105a736-900b-40c4-9c47-6be7ef60e9c6",
+          "width": 16,
+          "x": 1065,
+          "y": 64,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "41e2796e-913e-4864-b4f8-0228b687e746",
+          "width": 16,
+          "x": 1051,
+          "y": 64,
+          "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4117,12 +4128,28 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "b1081a91-e3ff-4673-89b8-9f1664249e62",
+          "name": "VerticalWallShort",
+          "persistentUuid": "a1981053-6c5d-4c9c-b41e-e2a6fbef2ab7",
           "width": 0,
-          "x": 1744,
-          "y": -341,
-          "zOrder": 30,
+          "x": 1051,
+          "y": 179,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWallShort",
+          "persistentUuid": "cb8aaef2-ca43-41d7-a4e4-b77db0be8608",
+          "width": 0,
+          "x": 1065,
+          "y": 179,
+          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4130,15 +4157,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 464,
+          "height": 221,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "d34058bd-9ab9-49da-a37c-55f38e5cb4fb",
-          "width": 48,
-          "x": 2104,
-          "y": -273,
-          "zOrder": 31,
+          "name": "VerticalWall",
+          "persistentUuid": "31cccb09-b0a9-47b0-8727-cf061aec1965",
+          "width": 16,
+          "x": 1175,
+          "y": 241,
+          "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4146,15 +4173,47 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 580,
+          "height": 221,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "decfbed8-704d-4d6e-9f7c-c7be9aa63f1d",
-          "width": 48,
-          "x": 1995,
-          "y": 55,
-          "zOrder": 32,
+          "name": "VerticalWall",
+          "persistentUuid": "264a2a4d-5e4a-434a-8bd1-b9a5321533c4",
+          "width": 16,
+          "x": 1189,
+          "y": 241,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWallShort",
+          "persistentUuid": "c568dc88-eed7-49d3-990b-e7066a07b975",
+          "width": 0,
+          "x": 1175,
+          "y": 415,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWallShort",
+          "persistentUuid": "ca1b3d11-eabd-4876-a00a-f3805ad693e2",
+          "width": 0,
+          "x": 1189,
+          "y": 415,
+          "zOrder": 53,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4162,15 +4221,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 383,
+          "height": 382,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "f68342e4-087c-4bbc-a076-0cbc70b686b9",
-          "width": 48,
-          "x": 2572,
-          "y": -286,
-          "zOrder": 33,
+          "name": "VerticalWall",
+          "persistentUuid": "04d5b480-cbd0-4c1d-ba03-409f3a9dc5fd",
+          "width": 16,
+          "x": 1748,
+          "y": -330,
+          "zOrder": 54,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4178,15 +4237,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 537,
+          "height": 536,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "82c29558-f694-4bf5-a0a5-14b6f79582ad",
-          "width": 48,
-          "x": 2882,
-          "y": -440,
-          "zOrder": 34,
+          "name": "VerticalWall",
+          "persistentUuid": "17d6b9db-938b-47a4-886d-72b3f0000eb2",
+          "width": 16,
+          "x": 1999,
+          "y": 63,
+          "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4194,15 +4253,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 783,
+          "height": 536,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "d9afccba-9d93-4482-84fc-712f5c199e4c",
-          "width": 48,
-          "x": 2862,
-          "y": 250,
-          "zOrder": 35,
+          "name": "VerticalWall",
+          "persistentUuid": "2e6cc74d-7b72-44de-a378-3a987534a2ff",
+          "width": 16,
+          "x": 2013,
+          "y": 63,
+          "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4210,15 +4269,207 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 372,
+          "height": 347,
           "layer": "",
           "locked": false,
-          "name": "Tuyau_vertical",
-          "persistentUuid": "e97cdf5a-9689-49be-9ef0-a7fce7c78a7d",
+          "name": "VerticalWall",
+          "persistentUuid": "068cfa1f-ed3b-43a3-87b5-0e0ebc117aa9",
+          "width": 16,
+          "x": 2180,
+          "y": 477,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 347,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "05a3dfee-28ab-4f63-aa9f-cd0d09883499",
+          "width": 16,
+          "x": 2194,
+          "y": 477,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWallShort",
+          "persistentUuid": "a5f66b0d-139a-4f54-bff6-4f5a3c0ed3e4",
+          "width": 0,
+          "x": 2194,
+          "y": 809,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWallShort",
+          "persistentUuid": "964d5516-3738-4fc3-9056-762ce9ab8bc1",
+          "width": 0,
+          "x": 2180,
+          "y": 809,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 406,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "66b0b56c-0bc3-4262-a540-1463ead25f3e",
+          "width": 16,
+          "x": 2113,
+          "y": -225,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 360,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "d2306e4a-085f-439a-8adb-546d80392914",
+          "width": 16,
+          "x": 2569,
+          "y": -285,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 360,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "86c3e769-801d-47e7-90b9-5a9bfd2221fb",
+          "width": 16,
+          "x": 2584,
+          "y": -285,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1926,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "14411d3e-cfc5-4bf3-80a5-6a6fe84778a1",
           "width": 48,
-          "x": 2179,
-          "y": 486,
-          "zOrder": 36,
+          "x": -142,
+          "y": -1093,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1436,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "03f72095-2fc6-483a-a96e-1cd04df547b4",
+          "width": 48,
+          "x": -142,
+          "y": 543,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 533,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "1fbc119b-1313-4a95-b4e7-96bd8117f085",
+          "width": 32,
+          "x": 2883,
+          "y": -458,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 756,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "95a93d95-e408-42be-9114-e16ce9420979",
+          "width": 32,
+          "x": 2879,
+          "y": 254,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 763,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "d55ef6c3-7c09-4615-a11b-43e015198781",
+          "width": 16,
+          "x": 4910,
+          "y": 99,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 615,
+          "layer": "",
+          "locked": false,
+          "name": "VerticalWall",
+          "persistentUuid": "676935fe-1c06-4360-beb3-c3934c1a6297",
+          "width": 16,
+          "x": 4694,
+          "y": 244,
+          "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4296,11 +4547,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4344,11 +4595,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4380,11 +4631,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4416,11 +4667,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4452,11 +4703,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4488,11 +4739,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4524,11 +4775,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4560,11 +4811,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4596,11 +4847,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4644,11 +4895,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4692,11 +4943,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4728,11 +4979,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4764,11 +5015,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4800,11 +5051,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4836,11 +5087,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4872,11 +5123,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4908,11 +5159,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4944,11 +5195,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -4980,11 +5231,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5028,11 +5279,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5076,11 +5327,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5112,11 +5363,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5148,11 +5399,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5184,11 +5435,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5220,11 +5471,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5256,11 +5507,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5292,11 +5543,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5328,11 +5579,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5364,11 +5615,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5412,11 +5663,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5460,11 +5711,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5496,11 +5747,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5532,11 +5783,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5568,11 +5819,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5604,11 +5855,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5640,11 +5891,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5676,11 +5927,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -5712,11 +5963,11 @@
                           },
                           {
                             "x": 39.6,
-                            "y": 34.8
+                            "y": 49.2
                           },
                           {
-                            "x": 26.8,
-                            "y": 35.6
+                            "x": 27.6,
+                            "y": 50
                           }
                         ]
                       ]
@@ -8811,9 +9062,9 @@
         },
         {
           "height": 32,
-          "name": "Tuyau_horizontal",
+          "name": "HorizontalWall",
           "tags": "",
-          "texture": "Images\\Walls & Floor\\Tuyau_horizontal.png",
+          "texture": "Images\\Walls & Floor\\Horizontal wall.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -8851,7 +9102,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Images\\Walls & Floor\\Tuyau_vertical.png",
+                      "image": "Images\\Walls & Floor\\Vertical wall.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8869,6 +9120,40 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "height": 512,
+          "name": "VerticalWall",
+          "tags": "",
+          "texture": "Images\\Walls & Floor\\Vertical wall.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "behaviors": [
+            {
+              "cost": 2,
+              "impassable": true,
+              "name": "PathfindingObstacle",
+              "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+            }
+          ]
+        },
+        {
+          "height": 64,
+          "name": "VerticalWallShort",
+          "tags": "",
+          "texture": "Images\\Walls & Floor\\Vertical wall short.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "behaviors": [
+            {
+              "cost": 2,
+              "impassable": true,
+              "name": "PathfindingObstacle",
+              "type": "PathfindingBehavior::PathfindingObstacleBehavior"
             }
           ]
         }
@@ -10957,7 +11242,7 @@
               },
               "parameters": [
                 "Player",
-                "Tuyau_horizontal",
+                "HorizontalWall",
                 "",
                 "",
                 "yes"
@@ -10973,7 +11258,7 @@
               },
               "parameters": [
                 "Player",
-                "Tuyau_horizontal",
+                "HorizontalWall",
                 "yes"
               ],
               "subInstructions": []
@@ -10985,8 +11270,72 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "VerticalWall",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "VerticalWall",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "VerticalWallShort",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "VerticalWallShort",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
