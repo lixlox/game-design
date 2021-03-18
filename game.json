@@ -2557,6 +2557,15 @@
         "name": "Images/Loots/tile007-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Player/tile143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/Player/tile143.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4614,7 +4623,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Images\\Player\\tile026.png",
+                      "image": "Images/Player/tile143.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
