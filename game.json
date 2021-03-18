@@ -2588,6 +2588,41 @@
           "identifier": "https://resources.gdevelop-app.com/assets/Space Shooter/PNG/Power-ups/Red Powerup .png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "Sounds/hjm-coin_clicker_1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\hjm-coin_clicker_1.wav",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/lose sound 1_0.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\lose sound 1_0.wav",
+        "userAdded": false
+      },
+      {
+        "file": "Sounds/win sound 1-2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\win sound 1-2.wav",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/teleportation-in-games-sound-effects_PX8JEloD.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\teleportation-in-games-sound-effects_PX8JEloD.wav",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/teleportation-in-games-sound-effects_wUZfJ5Fk.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\teleportation-in-games-sound-effects_wUZfJ5Fk.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2760,7 +2795,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.19
+        "zoomFactor": 0.214
       },
       "objectsGroups": [],
       "variables": [],
@@ -2774,8 +2809,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3637,
-          "y": 1044,
+          "x": 3254,
+          "y": 132,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -13504,6 +13539,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\win sound 1-2.wav",
+                "",
+                "100",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -13565,6 +13614,20 @@
               "parameters": [
                 "Ammunitions",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\hjm-coin_clicker_1.wav",
+                "",
+                "100",
+                "2"
               ],
               "subInstructions": []
             }
@@ -13734,6 +13797,20 @@
                 "2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\teleportation-in-games-sound-effects_wUZfJ5Fk.mp3",
+                "",
+                "100",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -13796,6 +13873,20 @@
                 "id",
                 "=",
                 "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\teleportation-in-games-sound-effects_wUZfJ5Fk.mp3",
+                "",
+                "100",
+                "1"
               ],
               "subInstructions": []
             }
@@ -14211,6 +14302,38 @@
               "parameters": [
                 "",
                 "\"New scene\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\lose sound 1_0.wav",
+                "no",
+                "100",
+                "1"
               ],
               "subInstructions": []
             }
