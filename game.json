@@ -2530,6 +2530,33 @@
         "name": "Images/Loots/tile004-1-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tile007-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tile007-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Loots/tile007-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/Loots/tile007-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2562,7 +2589,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.5636
+        "zoomFactor": 0.5632
       },
       "objectsGroups": [],
       "variables": [],
@@ -2592,7 +2619,7 @@
           "name": "InfoHP",
           "persistentUuid": "38a8e438-73d9-48ec-8c8f-0b98f3e6d8b5",
           "width": 0,
-          "x": 5,
+          "x": 33,
           "y": 5,
           "zOrder": 5,
           "numberProperties": [],
@@ -4502,6 +4529,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "38b968ec-1ac8-4f24-9383-dc899c6b0505",
+          "width": 0,
+          "x": 199,
+          "y": 335,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "infoAmmo",
+          "persistentUuid": "cc41ccf0-d878-4b3b-8bd8-a1d20511297c",
+          "width": 0,
+          "x": 4,
+          "y": 35,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4522,6 +4581,10 @@
             {
               "name": "cooldownToBlink",
               "value": "10"
+            },
+            {
+              "name": "Ammo",
+              "value": "0"
             }
           ],
           "behaviors": [
@@ -9178,6 +9241,64 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Ammunitions",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images/Loots/tile007-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "infoAmmo",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Ammo 🔫 Loading...",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -10835,6 +10956,42 @@
             "textG": 0,
             "textR": 0
           },
+          "comment": "infoAmmo field update: Updates the Ammo field at the top left of the screen",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "infoAmmo",
+                "=",
+                "\"Ammo 🔫 \" + Player.VariableString(Ammo)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
           "comment": "Zombie attack : Player loses HP when colliding with a Zombie, the Zombie is stunned, and Player gets invulnerable",
           "comment2": ""
         },
@@ -11401,6 +11558,69 @@
               },
               "parameters": [
                 "FirstAidKit",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player receive Ammo when touching Ammunitions",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Ammunitions",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Ammo",
+                "+",
+                "10"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Ammunitions",
                 ""
               ],
               "subInstructions": []
