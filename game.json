@@ -2566,6 +2566,15 @@
         "name": "Images/Player/tile143.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Loots/Valise 64x.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Loots\\Valise 64x.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2598,7 +2607,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.141
+        "zoomFactor": 0.741
       },
       "objectsGroups": [],
       "variables": [],
@@ -10298,6 +10307,25 @@
           }
         },
         {
+          "bold": false,
+          "italic": false,
+          "name": "InfoAmmo",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Ammo 🔫 Loading...",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
           "height": 32,
           "name": "FloorTile",
           "tags": "",
@@ -10437,23 +10465,43 @@
           ]
         },
         {
-          "bold": false,
-          "italic": false,
-          "name": "infoAmmo",
-          "smoothed": true,
+          "name": "Suitcase",
           "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "behaviors": [],
-          "string": "Ammo 🔫 Loading...",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Images\\Loots\\Valise 64x.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "height": 32,
@@ -12141,7 +12189,7 @@
                 "value": "TextObject::String"
               },
               "parameters": [
-                "infoAmmo",
+                "InfoAmmo",
                 "=",
                 "\"Ammo 🔫 \" + Player.VariableString(Ammo)"
               ],
