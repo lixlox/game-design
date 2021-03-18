@@ -2575,6 +2575,19 @@
         "name": "Images\\Loots\\Valise 64x.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Powerup .png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Powerup .png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/Space Shooter/PNG/Power-ups/Red Powerup .png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -2607,7 +2620,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.357
+        "zoomFactor": 0.297
       },
       "objectsGroups": [],
       "variables": [],
@@ -2621,8 +2634,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3657,
-          "y": 1062,
+          "x": 31,
+          "y": 310,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3021,8 +3034,8 @@
           "name": "Zombie",
           "persistentUuid": "6d67d692-d72b-442d-a8c4-6e9d5770a698",
           "width": 0,
-          "x": 1708.27,
-          "y": 550.318,
+          "x": 1781,
+          "y": 526,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3247,22 +3260,6 @@
           "width": 0,
           "x": 413.091,
           "y": 117,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "294968d7-fe93-46c0-aa5e-14f84ed012e9",
-          "width": 0,
-          "x": 74,
-          "y": 38,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3789,8 +3786,8 @@
           "name": "Zombie",
           "persistentUuid": "aa254804-359a-4e1d-b9f8-fc15918ab342",
           "width": 0,
-          "x": 1711.06,
-          "y": 541.961,
+          "x": 1710,
+          "y": 538,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -5764,12 +5761,476 @@
           "height": 0,
           "layer": "UI",
           "locked": false,
-          "name": "infoBriefcase",
+          "name": "InfoBriefcase",
           "persistentUuid": "716f3ab0-28f8-4747-bc38-cde70b761720",
           "width": 0,
           "x": 69,
           "y": 57,
           "zOrder": 139,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "5dccaac8-3dbc-463c-bf08-d71d3b40dc05",
+          "width": 0,
+          "x": 91,
+          "y": 77,
+          "zOrder": 140,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1ed48531-08ae-41e7-a9ac-e1826f507338",
+          "width": 0,
+          "x": 429,
+          "y": 158,
+          "zOrder": 141,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "b0aed490-fd80-4391-9f59-c450f3d19baf",
+          "width": 0,
+          "x": 581,
+          "y": 215,
+          "zOrder": 142,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "91aecad2-cd9b-44e2-89cd-d101d46464e3",
+          "width": 0,
+          "x": 456,
+          "y": 357,
+          "zOrder": 143,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "b969a14e-2185-4a2e-95b7-16d8022aa6b6",
+          "width": 0,
+          "x": 70,
+          "y": 798,
+          "zOrder": 144,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "b5af6a47-6713-4bac-8a29-3d48043c7708",
+          "width": 0,
+          "x": 1552,
+          "y": 717,
+          "zOrder": 145,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "4d6c4734-e0b1-441f-a26e-1555637d28ed",
+          "width": 0,
+          "x": 1692,
+          "y": 717,
+          "zOrder": 146,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "c07f6c6a-79b3-41be-92d0-dae6a6c0dfb7",
+          "width": 0,
+          "x": 1723,
+          "y": 570,
+          "zOrder": 147,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "cd254014-ed34-4d57-ac73-307032b047fd",
+          "width": 0,
+          "x": 1795,
+          "y": 559,
+          "zOrder": 148,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "14bc5969-8eb8-4a62-978f-e1231ca0be2d",
+          "width": 0,
+          "x": 1807,
+          "y": 391,
+          "zOrder": 149,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "0d3d45b7-52c8-4973-b6a8-50980181d6dc",
+          "width": 0,
+          "x": 1749,
+          "y": 477,
+          "zOrder": 150,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "35ef961d-6718-49b7-8e75-b80887936bd9",
+          "width": 0,
+          "x": 1507,
+          "y": 528,
+          "zOrder": 151,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "d197b508-3e5b-4f2b-8fb9-1f2d618bd8ac",
+          "width": 0,
+          "x": 1479,
+          "y": 571,
+          "zOrder": 152,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "5dfb1234-a7b1-4485-a66e-84d768f73ca4",
+          "width": 0,
+          "x": 1543,
+          "y": 392,
+          "zOrder": 153,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7db8fa1f-8c46-4569-833e-af9c02fdc5e3",
+          "width": 0,
+          "x": 1630,
+          "y": 327,
+          "zOrder": 154,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "088e4ad3-a3b9-49e8-9b59-81a18e7231e7",
+          "width": 0,
+          "x": 1822,
+          "y": 224,
+          "zOrder": 155,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "9a7aa4c3-2051-45a3-bdb5-40db70d7e318",
+          "width": 0,
+          "x": 1650,
+          "y": 163,
+          "zOrder": 156,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "15133096-05b0-4c36-a4e3-f2c9436077af",
+          "width": 0,
+          "x": 1392,
+          "y": 218,
+          "zOrder": 157,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "fa967a0b-0b76-4cb9-bf4b-bed697210b71",
+          "width": 0,
+          "x": 184,
+          "y": -282,
+          "zOrder": 158,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "a0bdcebf-ce9e-461e-9af9-10be41c98bdf",
+          "width": 0,
+          "x": 1683,
+          "y": -350,
+          "zOrder": 159,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "6d531167-d242-45ce-96dd-0d9060e5a405",
+          "width": 0,
+          "x": 1685,
+          "y": -256,
+          "zOrder": 160,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "029aaaf9-569b-43d1-9346-586bab16616e",
+          "width": 0,
+          "x": 1389,
+          "y": 12,
+          "zOrder": 161,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "3fa6ce32-6076-4236-9066-d59303f868d2",
+          "width": 0,
+          "x": 2029,
+          "y": -249,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "f3c83653-9dc7-4ad9-a6a9-14680e34e2cc",
+          "width": 0,
+          "x": 2314,
+          "y": -209,
+          "zOrder": 163,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "617cd8cd-6c2d-4120-aeff-3d4702b3f63f",
+          "width": 0,
+          "x": 2446,
+          "y": -124,
+          "zOrder": 164,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "df12c269-f2a1-4c8b-a87b-c9f6a0630383",
+          "width": 0,
+          "x": 2719,
+          "y": -246,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "8ffa953d-b7aa-4628-8cc0-ff58a48253f6",
+          "width": 0,
+          "x": 2497,
+          "y": 583,
+          "zOrder": 166,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "3fb8b2f4-4700-477d-b379-cd2da3895329",
+          "width": 0,
+          "x": 2354,
+          "y": 682,
+          "zOrder": 167,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "e22fa257-c809-45f3-a885-958a84f76f5b",
+          "width": 0,
+          "x": 2374,
+          "y": 806,
+          "zOrder": 168,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8728,6 +9189,50 @@
           ]
         },
         {
+          "name": "ZombieSpawner",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Phase",
+              "value": "1"
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Red Powerup .png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Zombie2",
           "tags": "",
           "type": "Sprite",
@@ -10374,6 +10879,25 @@
           }
         },
         {
+          "bold": false,
+          "italic": false,
+          "name": "InfoBriefcase",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
           "height": 32,
           "name": "FloorTile",
           "tags": "",
@@ -10565,28 +11089,86 @@
             }
           ],
           "behaviors": []
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "infoBriefcase",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
         }
       ],
       "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Teleportation",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Teleport"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "ZombieSpawner"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "PhaseChangeEvent",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
         {
           "disabled": false,
           "folded": false,
@@ -12916,21 +13498,92 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player gets suitcase",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Suitcase",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "Cache"
+                "value": "ModVarObjet"
               },
               "parameters": [
-                "Teleport"
+                "Teleport",
+                "id",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Suitcase",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "InfoBriefcase",
+                "=",
+                "\"💼\""
               ],
               "subInstructions": []
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Hiding technical objects & initialising global variables",
+          "comment2": ""
         },
         {
           "disabled": false,
@@ -13112,19 +13765,32 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Summoning zombies at ZombieSpawners",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "Player",
-                "Suitcase",
-                "",
-                "",
-                ""
+                "PhaseChangeEvent",
+                "=",
+                "1"
               ],
               "subInstructions": []
             }
@@ -13133,41 +13799,55 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarObjet"
+                "value": "ModVarGlobal"
               },
               "parameters": [
-                "Teleport",
-                "id",
+                "PhaseChangeEvent",
                 "=",
-                "3"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Delete"
-              },
-              "parameters": [
-                "Suitcase",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "infoBriefcase",
-                "=",
-                "\"💼\""
+                "0"
               ],
               "subInstructions": []
             }
           ],
-          "events": []
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "ZombieSpawner",
+                    "Phase",
+                    "=",
+                    "GlobalVariable(Phase)"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Zombie",
+                    "ZombieSpawner.X()",
+                    "ZombieSpawner.Y()",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         }
       ],
       "layers": [
