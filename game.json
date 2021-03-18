@@ -2607,7 +2607,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.741
+        "zoomFactor": 0.357
       },
       "objectsGroups": [],
       "variables": [],
@@ -2621,8 +2621,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 2973,
-          "y": 134,
+          "x": 3657,
+          "y": 1062,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -5537,7 +5537,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 303,
+          "height": 237,
           "layer": "",
           "locked": false,
           "name": "VerticalWall",
@@ -5722,6 +5722,54 @@
           "x": 4768,
           "y": 1103,
           "zOrder": 136,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Suitcase",
+          "persistentUuid": "8c7cc73c-64c5-4bc9-beda-31483da7bc7c",
+          "width": 0,
+          "x": 3647,
+          "y": 895,
+          "zOrder": 137,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "InfoAmmo",
+          "persistentUuid": "99aa77b3-b85c-4f31-aa0a-6bf974860e1b",
+          "width": 0,
+          "x": 3,
+          "y": 32,
+          "zOrder": 138,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "infoBriefcase",
+          "persistentUuid": "716f3ab0-28f8-4747-bc38-cde70b761720",
+          "width": 0,
+          "x": 69,
+          "y": 57,
+          "zOrder": 139,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10517,6 +10565,25 @@
             }
           ],
           "behaviors": []
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "infoBriefcase",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -13036,6 +13103,66 @@
                 "Player",
                 "Teleport",
                 ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Suitcase",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Teleport",
+                "id",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Suitcase",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "infoBriefcase",
+                "=",
+                "\"💼\""
               ],
               "subInstructions": []
             }
