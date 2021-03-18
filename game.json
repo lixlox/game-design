@@ -2760,7 +2760,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.226
+        "zoomFactor": 0.19
       },
       "objectsGroups": [],
       "variables": [],
@@ -2774,8 +2774,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 50,
-          "y": 303,
+          "x": 3637,
+          "y": 1044,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3352,70 +3352,6 @@
           "width": 68,
           "x": 1547,
           "y": 129,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "1461c4c9-f472-464f-b909-2c28061cf2d3",
-          "width": 0,
-          "x": 564,
-          "y": 177,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "6f529719-3956-4fca-ae88-93e8e0162fa3",
-          "width": 0,
-          "x": 564,
-          "y": 177,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "2299ff9d-d1f2-4364-95ea-f1f944aaa4f7",
-          "width": 0,
-          "x": 413.091,
-          "y": 117,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Zombie",
-          "persistentUuid": "8e84e281-b0f6-4b05-b15d-c2a2eda7df11",
-          "width": 0,
-          "x": 440.364,
-          "y": 313.364,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -11244,7 +11180,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Teleportation",
+          "comment": "Variables and hiding initialization",
           "comment2": ""
         },
         {
@@ -13668,6 +13604,19 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PickNearest"
+              },
+              "parameters": [
+                "Teleport",
+                "Player.X()",
+                "Player.Y()",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -13905,21 +13854,6 @@
         {
           "disabled": false,
           "folded": false,
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Summoning zombies at ZombieSpawners",
-          "comment2": ""
-        },
-        {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -13960,7 +13894,56 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "HP",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Game Over\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Summoning zombies at ZombieSpawners",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
               },
               "parameters": [
                 "PhaseChangeEvent",
@@ -13971,14 +13954,12 @@
             },
             {
               "type": {
-                "inverted": true,
-                "value": "PickNearest"
+                "inverted": false,
+                "value": "AjoutObjConcern"
               },
               "parameters": [
-                "Teleport",
-                "Player.X()",
-                "Player.Y()",
-                ""
+                "",
+                "ZombieSpawner"
               ],
               "subInstructions": []
             }
@@ -14035,42 +14016,7 @@
               ],
               "events": []
             }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "Player",
-                "HP",
-                "=",
-                "0"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"Game Over\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
+          ]
         }
       ],
       "layers": [
