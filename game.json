@@ -2623,6 +2623,15 @@
         "metadata": "",
         "name": "Sounds\\teleportation-in-games-sound-effects_wUZfJ5Fk.mp3",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Walls & Floor/Brouillard.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Walls & Floor\\Brouillard.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2795,7 +2804,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.694
+        "zoomFactor": 0.424
       },
       "objectsGroups": [],
       "variables": [],
@@ -2809,8 +2818,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3254,
-          "y": 132,
+          "x": 2039,
+          "y": 111,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -6342,6 +6351,22 @@
           "x": 3736,
           "y": 832,
           "zOrder": 170,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 560,
+          "layer": "",
+          "locked": false,
+          "name": "Fog",
+          "persistentUuid": "e00f8941-38f9-40fa-9cd5-5d1325cac6b5",
+          "width": 932,
+          "x": 1062,
+          "y": 69,
+          "zOrder": 171,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11199,6 +11224,16 @@
               "value": "0"
             }
           ],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "Fog",
+          "tags": "",
+          "texture": "Images\\Walls & Floor\\Brouillard.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
           "behaviors": []
         }
       ],
