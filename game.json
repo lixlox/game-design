@@ -2804,7 +2804,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.424
+        "zoomFactor": 0.082
       },
       "objectsGroups": [],
       "variables": [],
@@ -2818,8 +2818,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 2039,
-          "y": 111,
+          "x": 120,
+          "y": 292,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -11227,12 +11227,12 @@
           "behaviors": []
         },
         {
-          "height": 32,
+          "height": 352,
           "name": "Fog",
           "tags": "",
           "texture": "Images\\Walls & Floor\\Brouillard.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "width": 352,
           "variables": [],
           "behaviors": []
         }
@@ -11314,6 +11314,15 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "const WIDTH = 5676;\nconst HEIGHT = 3126;\nconst numW = WIDTH/352;\nconst numH = HEIGHT/352;\n\nfor(let i = 0; i < 2; i++){\n    for(let j = 0; j < 2; j++){\n        let obj = runtimeScene.createObject(\"Fog\").setLayer(\"Base layer\");\n        obj.setX(i*352);\n        obj.setY(j*352);\n    }\n}\n\nruntimeScene.createObject(\"Fog\");",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
         },
         {
           "disabled": false,
