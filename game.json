@@ -2709,6 +2709,27 @@
         "metadata": "",
         "name": "Sounds\\radio-news-zombies_Z6GjF8aG.mp3",
         "userAdded": true
+      },
+      {
+        "file": "Sounds/quad-out-of-ammo-fortnite-sound-sound-effect-for-editing.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\quad-out-of-ammo-fortnite-sound-sound-effect-for-editing.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/coup-de-feu-bruitage_ckXwFmRE.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\coup-de-feu-bruitage_ckXwFmRE.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_puBos5J4.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_puBos5J4.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -14649,6 +14670,20 @@
                 "1"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\coup-de-feu-bruitage_ckXwFmRE.mp3",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -14798,6 +14833,66 @@
               },
               "parameters": [
                 "Bullet",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Ammo",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "2\n"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\quad-out-of-ammo-fortnite-sound-sound-effect-for-editing.mp3",
+                "",
+                "",
                 ""
               ],
               "subInstructions": []
