@@ -3150,7 +3150,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.61
+        "zoomFactor": 0.37
       },
       "objectsGroups": [],
       "variables": [],
@@ -3164,8 +3164,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3643,
-          "y": 1079,
+          "x": 26,
+          "y": 309,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -11704,6 +11704,54 @@
               "parameterObjects": "",
               "useStrict": true,
               "eventsSheetExpanded": false
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "const phase = runtimeScene.getGame().getVariables().get(\"Phase\").getAsNumber();\nruntimeScene.getObjects(\"ZombieSpawner\")\n    .filter(spawner => spawner.getVariables().get(\"Phase\").getAsNumber() == phase)\n    .forEach(spawner => {\n        console.log(spawner);\n        const x = spawner.getX();\n        const y = spawner.getY() + spawner.getHeight();\n        const z = 11;\n        const zombie = Math.random() < 0.5 ? \"Zombie\" : \"Zombie2\";\n        const obj = runtimeScene.createObject(zombie);\n        obj.setLayer(\"Base layer\");\n        obj.setPosition(x, y);\n        obj.setZOrder(z);\n    });",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "const phase = runtimeScene.getGame().getVariables().get(\"Phase\").getAsNumber();\nruntimeScene.getObjects(\"ZombieSpawner\")\n    .filter(spawner => spawner.getVariables().get(\"Phase\").getAsNumber() == phase)\n    .forEach(spawner => {\n        console.log(spawner);\n        const x = spawner.getX();\n        const y = spawner.getY() + spawner.getHeight();\n        const z = 11;\n        const zombie = Math.random() < 0.5 ? \"Zombie\" : \"Zombie2\";\n        const obj = runtimeScene.createObject(zombie);\n        obj.setLayer(\"Base layer\");\n        obj.setPosition(x, y);\n        obj.setZOrder(z);\n    });",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
             }
           ]
         },
@@ -14481,17 +14529,6 @@
                 "1"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "AjoutObjConcern"
-              },
-              "parameters": [
-                "",
-                "ZombieSpawner"
-              ],
-              "subInstructions": []
             }
           ],
           "actions": [
@@ -14508,45 +14545,7 @@
               "subInstructions": []
             }
           ],
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "ZombieSpawner",
-                    "Phase",
-                    "=",
-                    "GlobalVariable(Phase)"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "Zombie",
-                    "ZombieSpawner.X()",
-                    "ZombieSpawner.Y()",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
+          "events": []
         },
         {
           "disabled": false,
