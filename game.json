@@ -3469,7 +3469,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.058
+        "zoomFactor": 0.154
       },
       "objectsGroups": [],
       "variables": [
@@ -3488,8 +3488,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": -32,
-          "y": 305,
+          "x": 52,
+          "y": 313,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -12252,6 +12252,18 @@
                 "TopDownMovement",
                 "=",
                 "Variable(MaxSpeed)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "1"
               ],
               "subInstructions": []
             }
