@@ -2766,6 +2766,48 @@
         "name": "Images\\Player\\Pistol face.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Sounds/fanfare-victory-sound-effect-hd.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\fanfare-victory-sound-effect-hd.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/minecraft-hit-sound-effect-hd.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\minecraft-hit-sound-effect-hd.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/minecraft-hit-sound-effect-hd_BNmVTaWq.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\minecraft-hit-sound-effect-hd_BNmVTaWq.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit-pubos5j4_0Wv9khNb.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit-pubos5j4_0Wv9khNb.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_EyF92UUZ.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds\\bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_EyF92UUZ.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3427,7 +3469,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.172
+        "zoomFactor": 0.292
       },
       "objectsGroups": [],
       "variables": [
@@ -3446,8 +3488,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3633,
-          "y": 1003,
+          "x": -32,
+          "y": 305,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3670,8 +3712,8 @@
           "name": "HorizontalWall",
           "persistentUuid": "f36d6c72-4dd4-4cd0-989f-14d233eaa6c0",
           "width": 2025,
-          "x": 2906,
-          "y": 74,
+          "x": 2900,
+          "y": 50,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3702,7 +3744,7 @@
           "name": "HorizontalWall",
           "persistentUuid": "f6715514-4722-4231-ab55-f5f475925c0b",
           "width": 1834,
-          "x": 2875,
+          "x": 2879,
           "y": 242,
           "zOrder": 12,
           "numberProperties": [],
@@ -3782,8 +3824,8 @@
           "name": "HorizontalWall",
           "persistentUuid": "a82a6bfb-a56e-4f13-b5e0-9f26e25c8b97",
           "width": 484,
-          "x": 2396,
-          "y": 295,
+          "x": 2395,
+          "y": 340,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -3798,8 +3840,8 @@
           "name": "HorizontalWall",
           "persistentUuid": "83ad2493-793a-47d8-b630-c7ba10d32821",
           "width": 503,
-          "x": 2412,
-          "y": 74,
+          "x": 2401,
+          "y": 50,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -4279,7 +4321,7 @@
           "persistentUuid": "d2306e4a-085f-439a-8adb-546d80392914",
           "width": 16,
           "x": 2569,
-          "y": -285,
+          "y": -313,
           "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
@@ -4295,7 +4337,7 @@
           "persistentUuid": "86c3e769-801d-47e7-90b9-5a9bfd2221fb",
           "width": 16,
           "x": 2584,
-          "y": -285,
+          "y": -312,
           "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
@@ -4336,7 +4378,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 533,
+          "height": 507,
           "layer": "",
           "locked": false,
           "name": "VerticalWall",
@@ -4768,7 +4810,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 446,
+          "height": 404,
           "layer": "",
           "locked": false,
           "name": "VerticalWall",
@@ -4790,8 +4832,8 @@
           "name": "HorizontalWall",
           "persistentUuid": "6c7f55ec-ba59-4099-b924-b5d292528a8d",
           "width": 275,
-          "x": 4768,
-          "y": 1099,
+          "x": 4767,
+          "y": 1059,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -5376,8 +5418,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "c07f6c6a-79b3-41be-92d0-dae6a6c0dfb7",
           "width": 0,
-          "x": 1723,
-          "y": 570,
+          "x": 1570,
+          "y": 485,
           "zOrder": 147,
           "numberProperties": [],
           "stringProperties": [],
@@ -5392,8 +5434,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "cd254014-ed34-4d57-ac73-307032b047fd",
           "width": 0,
-          "x": 1795,
-          "y": 559,
+          "x": 1790,
+          "y": 517,
           "zOrder": 148,
           "numberProperties": [],
           "stringProperties": [],
@@ -5440,8 +5482,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "35ef961d-6718-49b7-8e75-b80887936bd9",
           "width": 0,
-          "x": 1507,
-          "y": 528,
+          "x": 1504,
+          "y": 517,
           "zOrder": 151,
           "numberProperties": [],
           "stringProperties": [],
@@ -5456,8 +5498,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "d197b508-3e5b-4f2b-8fb9-1f2d618bd8ac",
           "width": 0,
-          "x": 1479,
-          "y": 571,
+          "x": 1255,
+          "y": 484,
           "zOrder": 152,
           "numberProperties": [],
           "stringProperties": [],
@@ -5584,8 +5626,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "6d531167-d242-45ce-96dd-0d9060e5a405",
           "width": 0,
-          "x": 1685,
-          "y": -256,
+          "x": 1683,
+          "y": -132,
           "zOrder": 160,
           "numberProperties": [],
           "stringProperties": [],
@@ -5601,7 +5643,7 @@
           "persistentUuid": "029aaaf9-569b-43d1-9346-586bab16616e",
           "width": 0,
           "x": 1389,
-          "y": 12,
+          "y": -20,
           "zOrder": 161,
           "numberProperties": [],
           "stringProperties": [],
@@ -5823,8 +5865,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "e615e94d-2cba-4c88-bc66-b216d6ef9da2",
           "width": 0,
-          "x": 3887,
-          "y": 1178,
+          "x": 3912,
+          "y": 1225,
           "zOrder": 174,
           "numberProperties": [],
           "stringProperties": [],
@@ -5839,8 +5881,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "3dbe5835-9b8b-41d1-bbfe-655df1f4c6be",
           "width": 0,
-          "x": 3877,
-          "y": 1276,
+          "x": 3395,
+          "y": 1450,
           "zOrder": 175,
           "numberProperties": [],
           "stringProperties": [],
@@ -5855,8 +5897,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "78df7dc1-b271-4f7c-ab5a-a391782a7260",
           "width": 0,
-          "x": 3804,
-          "y": 1270,
+          "x": 3250,
+          "y": 917,
           "zOrder": 176,
           "numberProperties": [],
           "stringProperties": [],
@@ -5904,7 +5946,7 @@
           "persistentUuid": "53d12f31-af8f-487e-81b7-472cb8fc91e9",
           "width": 0,
           "x": 4021,
-          "y": 1620,
+          "y": 1594,
           "zOrder": 179,
           "numberProperties": [],
           "stringProperties": [],
@@ -5935,8 +5977,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "87c7e88a-1303-4ed7-8e3c-a3f4192c840f",
           "width": 0,
-          "x": 4435,
-          "y": 1373,
+          "x": 4381,
+          "y": 1380,
           "zOrder": 181,
           "numberProperties": [],
           "stringProperties": [],
@@ -6031,8 +6073,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "35ba8802-1c38-445c-8607-01f4e3d2e167",
           "width": 0,
-          "x": 3330,
-          "y": 1826,
+          "x": 3250,
+          "y": 1777,
           "zOrder": 187,
           "numberProperties": [],
           "stringProperties": [],
@@ -6255,8 +6297,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "abaf1554-634b-4bc0-b0fb-68e676ef33ea",
           "width": 0,
-          "x": 1591,
-          "y": -279,
+          "x": 1217,
+          "y": -258,
           "zOrder": 201,
           "numberProperties": [],
           "stringProperties": [],
@@ -6303,7 +6345,7 @@
           "name": "ZombieSpawner",
           "persistentUuid": "e79484ac-76d9-404a-9cac-a96916aef5ce",
           "width": 0,
-          "x": 726,
+          "x": 712,
           "y": -108,
           "zOrder": 204,
           "numberProperties": [],
@@ -6464,7 +6506,7 @@
           "persistentUuid": "1d590b39-cbc1-4a0b-a9b2-cca8c42bdbb6",
           "width": 0,
           "x": 1666,
-          "y": 538,
+          "y": 515,
           "zOrder": 214,
           "numberProperties": [],
           "stringProperties": [],
@@ -6479,8 +6521,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "4c02a8c7-dc55-4ce6-b398-932a465c630a",
           "width": 0,
-          "x": 1393,
-          "y": 578,
+          "x": 1338,
+          "y": 518,
           "zOrder": 215,
           "numberProperties": [],
           "stringProperties": [],
@@ -13755,6 +13797,20 @@
                 "100"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\minecraft-hit-sound-effect-hd_BNmVTaWq.mp3",
+                "",
+                "100",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -13937,6 +13993,20 @@
                 "InvulnerableCooldown",
                 "=",
                 "100"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\minecraft-hit-sound-effect-hd_BNmVTaWq.mp3",
+                "",
+                "100",
+                "1"
               ],
               "subInstructions": []
             }
@@ -16093,6 +16163,38 @@
                 "",
                 "",
                 ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Sounds\\fanfare-victory-sound-effect-hd.mp3",
+                "",
+                "100",
+                "1"
               ],
               "subInstructions": []
             }
