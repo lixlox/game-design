@@ -3469,7 +3469,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.202
+        "zoomFactor": 0.058
       },
       "objectsGroups": [],
       "variables": [
@@ -6699,7 +6699,7 @@
           "width": 0,
           "x": 229,
           "y": 331,
-          "zOrder": 226,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6715,7 +6715,7 @@
           "width": 0,
           "x": 980,
           "y": 355,
-          "zOrder": 227,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6731,7 +6731,7 @@
           "width": 446,
           "x": 3307,
           "y": 167,
-          "zOrder": 228,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6747,7 +6747,7 @@
           "width": 163,
           "x": 4726,
           "y": 606,
-          "zOrder": 229,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6763,7 +6763,7 @@
           "width": 0,
           "x": 2344,
           "y": 917,
-          "zOrder": 230,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6779,7 +6779,7 @@
           "width": 0,
           "x": 2617,
           "y": 835,
-          "zOrder": 231,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6795,7 +6795,7 @@
           "width": 0,
           "x": 4736,
           "y": 528,
-          "zOrder": 232,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6811,7 +6811,7 @@
           "width": 101,
           "x": 3632,
           "y": 1003,
-          "zOrder": 233,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6824,10 +6824,10 @@
           "locked": false,
           "name": "Instructions",
           "persistentUuid": "9a42ef4f-8fcf-466d-b4e3-274195be410a",
-          "width": 290,
+          "width": 237,
           "x": 33,
           "y": 304,
-          "zOrder": 234,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6843,7 +6843,7 @@
           "width": 0,
           "x": 1804,
           "y": 349,
-          "zOrder": 235,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6859,7 +6859,7 @@
           "width": 0,
           "x": 1202,
           "y": 511,
-          "zOrder": 236,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6875,7 +6875,7 @@
           "width": 0,
           "x": 1206,
           "y": 169,
-          "zOrder": 236,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6891,7 +6891,7 @@
           "width": 0,
           "x": 2769,
           "y": 178,
-          "zOrder": 237,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
