@@ -3427,7 +3427,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.1
+        "zoomFactor": 0.172
       },
       "objectsGroups": [],
       "variables": [
@@ -3446,8 +3446,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 64,
-          "y": 320,
+          "x": 3633,
+          "y": 1003,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -6626,6 +6626,22 @@
           "x": 1302,
           "y": 265,
           "zOrder": 224,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 136,
+          "layer": "",
+          "locked": false,
+          "name": "Win",
+          "persistentUuid": "11e2e496-2e1a-43d2-9d1c-449d6130b099",
+          "width": 32,
+          "x": -94,
+          "y": 269,
+          "zOrder": 225,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11682,6 +11698,16 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "Win",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -11732,6 +11758,16 @@
               },
               "parameters": [
                 "ZombieSpawner"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Win"
               ],
               "subInstructions": []
             },
@@ -15593,6 +15629,68 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player Win",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Win",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Win\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -15854,6 +15952,204 @@
           "ambientLightColorB": 6881800,
           "ambientLightColorG": 9520456,
           "ambientLightColorR": 6249048,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Win",
+      "name": "Win",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.64
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "51236444-f4bd-4194-9a16-77a058c2f733",
+          "width": 0,
+          "x": 26,
+          "y": 236,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "persistentUuid": "a15a36f5-0f4d-459b-94dc-6ef1f5e5408d",
+          "width": 0,
+          "x": 296,
+          "y": 392,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": true,
+          "italic": false,
+          "name": "NewObject",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Bravo ! \nVous avez réussis à sortir de l'aeroport avec l'antidote \nGrâce à vous l'humanité sera sauvée !",
+          "font": "",
+          "characterSize": 28,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "NewObject2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Rejouer",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 49,
+            "g": 250,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "NewObject",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "NewObject2",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisBouton"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"New scene\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
