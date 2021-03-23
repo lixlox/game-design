@@ -3492,7 +3492,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.174
+        "zoomFactor": 0.31
       },
       "objectsGroups": [],
       "variables": [
@@ -3511,8 +3511,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3633,
-          "y": 1103,
+          "x": -35,
+          "y": 302,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -12835,10 +12835,10 @@
           "variables": [],
           "behaviors": [
             {
-              "acceleration": 15,
-              "maxSpeed": 150,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 15,
+              "maxSpeed": 150,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
