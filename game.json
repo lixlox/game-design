@@ -3483,7 +3483,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.322
+        "zoomFactor": 0.154
       },
       "objectsGroups": [],
       "variables": [
@@ -3502,8 +3502,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 52,
-          "y": 313,
+          "x": 3624,
+          "y": 1206,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -8269,6 +8269,22 @@
               "value": "2"
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Sortie",
+          "persistentUuid": "1a9424ab-4a19-4757-a93f-ee44552a1245",
+          "width": 0,
+          "x": -52,
+          "y": 317,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -13271,7 +13287,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "droite ou gauche, choisi bien",
+          "string": "Droite ou gauche, choisis bien",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13290,7 +13306,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Avant de rentrer soit sûr d'être prêt",
+          "string": "Prépare-toi bien",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13309,7 +13325,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "n'ai pas peur tu vas accéder au 2nd niveau, continue d'avancer",
+          "string": "N'ai pas peur tu vas accéder au 2nd niveau, continu d'avancer",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13328,7 +13344,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "tu es sur la bonne voie",
+          "string": "Tu es sur la bonne voie",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13385,7 +13401,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Maintenant que tu l'as trouvé prend la et retourne à l'entrée. \nUne fois récupéré tu pourras tirer",
+          "string": "Maintenant que tu as trouvé la valise. \nUtilise l'arme à ta disposition et retourne à l'entrée. \n",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13404,7 +13420,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Cherche la valise et ramène la, une fois que tu auras la valise tu aura aussi une arme ",
+          "string": "Cherche la valise et ramène la, une fois que tu auras la valise tu auras aussi une arme ",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -13464,6 +13480,25 @@
           "string": "Bravo tu vas entrer dans la salle des bagages",
           "font": "",
           "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Sortie",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "<= Sortie",
+          "font": "",
+          "characterSize": 40,
           "color": {
             "b": 0,
             "g": 0,
@@ -17431,8 +17466,8 @@
               },
               "parameters": [
                 "",
-                "Sounds/pas.mp3",
-                "50",
+                "Sounds\\shoot background music.mp3",
+                "1",
                 "yes",
                 "30",
                 "1"
@@ -17683,8 +17718,136 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "1\n\n\n\n"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "trouve"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Sortie"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Phase",
+                "=",
+                "2\n\n"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "trouve",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "droite_gauche"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "trouve_valise"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "teleportation"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "nv1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Instructions"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Sortie",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
@@ -18041,7 +18204,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Bravo ! \nVous avez réussis à sortir de l'aeroport avec l'antidote \nGrâce à vous l'humanité sera sauvée !",
+          "string": "Bravo ! \nVous avez réussi à sortir de l'aéroport avec l'antidote \nGrâce à vous l'humanité sera sauvée !",
           "font": "",
           "characterSize": 28,
           "color": {
