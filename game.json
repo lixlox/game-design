@@ -2822,6 +2822,15 @@
         "metadata": "",
         "name": "Sounds/pas.mp3",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Images/Projectiles/Steel bullet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images\\Projectiles\\Steel bullet.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3483,7 +3492,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.154
+        "zoomFactor": 1.174
       },
       "objectsGroups": [],
       "variables": [
@@ -3502,8 +3511,8 @@
           "name": "Player",
           "persistentUuid": "1ece1fb0-60fb-4872-ab11-b08e400e1b8a",
           "width": 0,
-          "x": 3624,
-          "y": 1206,
+          "x": 3633,
+          "y": 1103,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -4462,8 +4471,8 @@
           "name": "Ammunitions",
           "persistentUuid": "38b968ec-1ac8-4f24-9383-dc899c6b0505",
           "width": 0,
-          "x": 299,
-          "y": 15,
+          "x": 637,
+          "y": -323,
           "zOrder": 67,
           "numberProperties": [],
           "stringProperties": [],
@@ -4574,8 +4583,8 @@
           "name": "FirstAidKit",
           "persistentUuid": "70561817-c409-4a8e-add8-112f941a2451",
           "width": 0,
-          "x": 2232,
-          "y": 556,
+          "x": 2081,
+          "y": 534,
           "zOrder": 74,
           "numberProperties": [],
           "stringProperties": [],
@@ -4590,8 +4599,8 @@
           "name": "Ammunitions",
           "persistentUuid": "8f539e51-ac0f-4b9e-ac72-11705ebbe3d1",
           "width": 0,
-          "x": 2048,
-          "y": 335,
+          "x": 2126,
+          "y": 531,
           "zOrder": 75,
           "numberProperties": [],
           "stringProperties": [],
@@ -4958,8 +4967,8 @@
           "name": "Ammunitions",
           "persistentUuid": "568597b9-ed8e-4ec4-bc59-6c69ff658e6b",
           "width": 0,
-          "x": 3384,
-          "y": 1885,
+          "x": 5425,
+          "y": 885,
           "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
@@ -5320,25 +5329,9 @@
           "name": "ZombieSpawner",
           "persistentUuid": "5dccaac8-3dbc-463c-bf08-d71d3b40dc05",
           "width": 0,
-          "x": 91,
-          "y": 77,
+          "x": 27,
+          "y": 16,
           "zOrder": 140,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "1ed48531-08ae-41e7-a9ac-e1826f507338",
-          "width": 0,
-          "x": 429,
-          "y": 158,
-          "zOrder": 141,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5638,22 +5631,6 @@
           "layer": "",
           "locked": false,
           "name": "ZombieSpawner",
-          "persistentUuid": "6d531167-d242-45ce-96dd-0d9060e5a405",
-          "width": 0,
-          "x": 1683,
-          "y": -132,
-          "zOrder": 160,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
           "persistentUuid": "029aaaf9-569b-43d1-9346-586bab16616e",
           "width": 0,
           "x": 1389,
@@ -5750,22 +5727,6 @@
           "layer": "",
           "locked": false,
           "name": "ZombieSpawner",
-          "persistentUuid": "3fb8b2f4-4700-477d-b379-cd2da3895329",
-          "width": 0,
-          "x": 2354,
-          "y": 682,
-          "zOrder": 167,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
           "persistentUuid": "e22fa257-c809-45f3-a885-958a84f76f5b",
           "width": 0,
           "x": 2374,
@@ -5806,69 +5767,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "87762122-2492-457c-80ae-05bf636b5652",
-          "width": 0,
-          "x": 3813,
-          "y": 996,
-          "zOrder": 171,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Phase",
-              "value": "2"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "e497688c-2a0e-4bc8-a29d-bc99c180721c",
-          "width": 0,
-          "x": 3799,
-          "y": 1183,
-          "zOrder": 172,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Phase",
-              "value": "2"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "993ff3ef-c00f-4447-93eb-debe094cb7c0",
-          "width": 0,
-          "x": 3805,
-          "y": 1591,
-          "zOrder": 173,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Phase",
-              "value": "2"
-            }
-          ]
         },
         {
           "angle": 0,
@@ -5930,22 +5828,6 @@
           "x": 3851,
           "y": 1433,
           "zOrder": 177,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "bca6a886-9b24-46e1-8574-ae7eead6ac80",
-          "width": 0,
-          "x": 3998,
-          "y": 1464,
-          "zOrder": 178,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6023,8 +5905,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "0180f28e-747b-475a-a109-e4abdfb43c26",
           "width": 0,
-          "x": 4071,
-          "y": 1798,
+          "x": 4208,
+          "y": 1795,
           "zOrder": 183,
           "numberProperties": [],
           "stringProperties": [],
@@ -6149,38 +6031,6 @@
           "layer": "",
           "locked": false,
           "name": "ZombieSpawner",
-          "persistentUuid": "af706949-fe9a-479b-9aa8-e745c211ecc0",
-          "width": 0,
-          "x": 5134,
-          "y": 1626,
-          "zOrder": 191,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "12bea8b3-003d-45fe-8d6d-3bf6eb5d5988",
-          "width": 0,
-          "x": 5074,
-          "y": 1544,
-          "zOrder": 192,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
           "persistentUuid": "b885e761-611a-4a9b-a24a-8bbb7f28953a",
           "width": 0,
           "x": 5118,
@@ -6202,22 +6052,6 @@
           "x": 5146,
           "y": 1110,
           "zOrder": 194,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "0f4e1a42-df35-429b-bc2c-e98a857fb349",
-          "width": 0,
-          "x": 2641,
-          "y": 567,
-          "zOrder": 195,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6343,8 +6177,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "184d79ac-38ca-417d-b502-d5ec43d61567",
           "width": 0,
-          "x": 862,
-          "y": -323,
+          "x": 388,
+          "y": -374,
           "zOrder": 203,
           "numberProperties": [],
           "stringProperties": [],
@@ -6912,27 +6746,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ZombieSpawner",
-          "persistentUuid": "39b0dcd6-5940-4758-8c30-e7110e6f74c6",
-          "width": 0,
-          "x": 3456,
-          "y": 1003,
-          "zOrder": 173,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Phase",
-              "value": "2"
-            }
-          ]
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 65,
           "layer": "",
@@ -7103,8 +6916,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "80fb7672-6d85-492e-aa03-1d828454695d",
           "width": 56,
-          "x": 4213,
-          "y": 1853,
+          "x": 3877,
+          "y": 1750,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7376,8 +7189,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "8e50ec56-62c2-4565-a53e-a1186d0b3742",
           "width": 56,
-          "x": 3995,
-          "y": 1449,
+          "x": 3920,
+          "y": 1381,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7418,8 +7231,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "5d1d3e83-99e2-40f5-b7dd-d7693a2055e0",
           "width": 56,
-          "x": 3954,
-          "y": 1534,
+          "x": 3784,
+          "y": 1164,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7460,8 +7273,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "4abd9cbd-52c2-47e3-9fb3-feb0897c5bc7",
           "width": 56,
-          "x": 4205,
-          "y": 1489,
+          "x": 4229,
+          "y": 1271,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7628,8 +7441,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "1ba83fed-0633-4354-9898-3a5ca2e14cac",
           "width": 56,
-          "x": 1981,
-          "y": 685,
+          "x": 2066,
+          "y": 776,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7775,8 +7588,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "23d01d13-9e25-453c-9b9b-20292aaa6d3b",
           "width": 56,
-          "x": 1452,
-          "y": 204,
+          "x": 1858,
+          "y": 294,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7838,8 +7651,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "9e4fd38e-8cd2-40f9-bdea-adee5846fe7c",
           "width": 56,
-          "x": 1047,
-          "y": 777,
+          "x": 938,
+          "y": 903,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7880,8 +7693,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "ed9b28ad-6aca-4566-8b3c-99ee027cc5ef",
           "width": 56,
-          "x": 2654,
-          "y": 724,
+          "x": 2265,
+          "y": 621,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -7964,8 +7777,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "318292e4-ae59-49be-a18a-a082949b4e93",
           "width": 56,
-          "x": 2122,
-          "y": -350,
+          "x": 2285,
+          "y": -314,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -8069,8 +7882,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "c8d6c7cb-72c0-49e9-9ad6-db38fe3a3351",
           "width": 56,
-          "x": 1391,
-          "y": -195,
+          "x": 922,
+          "y": 197,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -8216,8 +8029,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "cb640ec2-2501-40ca-9a4c-b090e58b5e71",
           "width": 56,
-          "x": 479,
-          "y": 226,
+          "x": 566,
+          "y": -281,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -8258,8 +8071,8 @@
           "name": "ZombieSpawner",
           "persistentUuid": "23f730c3-9533-4003-bc89-d5f14ce50c86",
           "width": 56,
-          "x": 263,
-          "y": 723,
+          "x": 539,
+          "y": 681,
           "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
@@ -8285,6 +8098,1689 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "4259b111-e134-4e11-b90a-683ddb852bbb",
+          "width": 56,
+          "x": 3995,
+          "y": 1449,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "d3b36f71-e001-4cd3-bda5-a720d7ff6390",
+          "width": 0,
+          "x": 3384,
+          "y": 1885,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "fce328f5-8038-48fc-bd6f-e54d2e19f1d8",
+          "width": 0,
+          "x": 3678,
+          "y": 1736,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "09885046-8749-4f3c-808d-d937660f8cb7",
+          "width": 56,
+          "x": 4067,
+          "y": 1870,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "62aa743f-7e54-4585-9fd6-78474eb2cde4",
+          "width": 56,
+          "x": 4302,
+          "y": 1811,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "6dd513f2-98d8-43fc-a460-7c9c9542cdda",
+          "width": 0,
+          "x": 4071,
+          "y": 1798,
+          "zOrder": 183,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "e1d48ef8-3f9d-4eea-b0c0-36bd2459bee4",
+          "width": 56,
+          "x": 3954,
+          "y": 1534,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "500a4839-b46a-439c-8df2-4bd835864e74",
+          "width": 56,
+          "x": 3808,
+          "y": 1567,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "e793d506-5128-49dc-b5de-58c20eb63339",
+          "width": 56,
+          "x": 3817,
+          "y": 952,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "bb263d73-19d6-4577-868d-ac24d69cf611",
+          "width": 56,
+          "x": 3910,
+          "y": 1002,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "f422276e-66ca-4da0-bd6c-3d2fa3b79515",
+          "width": 56,
+          "x": 4205,
+          "y": 1489,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1732369c-7b3f-4a96-8ed3-1a7f286ef983",
+          "width": 56,
+          "x": 4213,
+          "y": 1853,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "79d98eeb-b6e5-48e4-8d88-dc1f7230f8b1",
+          "width": 0,
+          "x": 4417,
+          "y": 1795,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "65452e53-c59c-4bed-9f10-6bccee5c3e30",
+          "width": 56,
+          "x": 2654,
+          "y": 724,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "17cb8055-2cde-4492-8a36-cfef577841d9",
+          "width": 56,
+          "x": 2551,
+          "y": 645,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "880e916c-ac80-4912-9eab-5137a18e05f8",
+          "width": 56,
+          "x": 2389,
+          "y": 723,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7c49489a-a816-446e-8dac-20a76f59d727",
+          "width": 56,
+          "x": 2512,
+          "y": 816,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "5865596d-5917-48ed-a64f-1f0f728494c1",
+          "width": 56,
+          "x": 2626,
+          "y": 930,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "6780c9ac-f3f0-4da4-b4e3-0256c9edf29e",
+          "width": 56,
+          "x": 2755,
+          "y": 804,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1a195887-fdf7-4d54-98f6-26a3a06cf68c",
+          "width": 56,
+          "x": 2416,
+          "y": 619,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "bfb9de45-8149-4438-9c24-54cf0a30013b",
+          "width": 56,
+          "x": 2122,
+          "y": -350,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7b11be93-c84d-496e-b003-c879d7a50053",
+          "width": 56,
+          "x": 2162,
+          "y": -169,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "683358c2-8aed-4c58-adf3-49e31b79506b",
+          "width": 56,
+          "x": 2311,
+          "y": -144,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "79ae0775-a39e-49b2-8b8d-6a7ba9a38ba7",
+          "width": 56,
+          "x": 2386,
+          "y": -45,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "2dd61b0d-7006-48b0-9bb9-9d62e633613a",
+          "width": 56,
+          "x": 1962,
+          "y": -366,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "307e6888-21c2-4a28-8f39-565952c91f67",
+          "width": 56,
+          "x": 1791,
+          "y": -323,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "44165c52-3590-4db1-9b6c-439c2d81c7a7",
+          "width": 56,
+          "x": 1491,
+          "y": -61,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "5dce2774-62af-498d-9758-f52eb4f6d63e",
+          "width": 56,
+          "x": 1391,
+          "y": -195,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "a3da4207-d745-43b2-b553-b2b7c1123315",
+          "width": 56,
+          "x": 1212,
+          "y": -369,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "447eced6-e6b7-4bcd-8f83-76e5149e8247",
+          "width": 56,
+          "x": 1212,
+          "y": -369,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "a65ec7df-6597-4cc1-a514-8ee51331b3a6",
+          "width": 56,
+          "x": 1516,
+          "y": -306,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "71e2192a-4822-401a-af77-fd55183dcf68",
+          "width": 56,
+          "x": 1452,
+          "y": 204,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "103eb6c1-e062-4746-9870-039a2eb6284a",
+          "width": 56,
+          "x": 1487,
+          "y": 370,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "82630b07-2598-4e37-8021-0fa50b212e59",
+          "width": 56,
+          "x": 1583,
+          "y": 430,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "00241815-098e-4baf-908c-63f809894bf8",
+          "width": 56,
+          "x": 1545,
+          "y": 514,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "b678863d-2c85-4383-848a-ae77b008b4ee",
+          "width": 56,
+          "x": 1089,
+          "y": 419,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "2000f66c-5808-4b5e-8aca-f4c94e76b293",
+          "width": 56,
+          "x": 1802,
+          "y": 406,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "4b4d66bc-fd8c-43b2-a2ab-096ba0f2f0f3",
+          "width": 56,
+          "x": 1454,
+          "y": 489,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "16df3cce-a7bd-4f31-a2da-6c18af3d8cff",
+          "width": 56,
+          "x": 1683,
+          "y": 169,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "0544b55c-becf-422c-bc21-ce1e60386ea4",
+          "width": 56,
+          "x": 1654,
+          "y": 341,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "dfbad0c7-4b8c-41f0-b9ce-1676d496e04f",
+          "width": 56,
+          "x": 1557,
+          "y": 270,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "9ac2bd56-81ce-4502-b255-bac13b317491",
+          "width": 56,
+          "x": 1854,
+          "y": 191,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "2150a1e7-9804-4c38-a861-594303a3995a",
+          "width": 56,
+          "x": 1930,
+          "y": 120,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "2d87e455-d3d0-4d96-a528-237b1b597935",
+          "width": 56,
+          "x": 1760,
+          "y": 144,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1e3a89f5-0cc7-4cb3-9761-e55423ddeb2f",
+          "width": 56,
+          "x": 1765,
+          "y": 262,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "2c40617b-5022-4503-bc12-865a4db5289f",
+          "width": 56,
+          "x": 1882,
+          "y": 470,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7f79de29-b5ab-49d4-a997-1ce57756a346",
+          "width": 56,
+          "x": 1722,
+          "y": 432,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "83572dea-ea88-4de9-9a02-c833dbce4b4e",
+          "width": 56,
+          "x": 1276,
+          "y": 393,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1b049774-324a-4e16-bc4f-c1eabf3c027c",
+          "width": 56,
+          "x": 263,
+          "y": 723,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "1e2716c1-3e9e-4472-8dea-7900d7e9eaff",
+          "width": 56,
+          "x": 344,
+          "y": 651,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "c4600745-e9bb-4a22-b102-008735c2e343",
+          "width": 56,
+          "x": 153,
+          "y": 628,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "ac0f9a3c-8423-409e-9da5-b1ae21495f4c",
+          "width": 56,
+          "x": 86,
+          "y": 888,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7457b326-950b-42ef-a45c-fd6c5718aa85",
+          "width": 56,
+          "x": 363,
+          "y": 848,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "db52fb21-a2d0-4aa0-b174-61a04f20baae",
+          "width": 56,
+          "x": 479,
+          "y": 226,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "c63d8139-5431-4075-8f68-c00a795beddf",
+          "width": 56,
+          "x": 312,
+          "y": 249,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7506954a-86a8-4dc4-a07a-a8061699646b",
+          "width": 56,
+          "x": 185,
+          "y": -165,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "16fc461c-ce79-49af-8251-bf71d246be86",
+          "width": 56,
+          "x": 223,
+          "y": 155,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "63eded39-bb97-4866-a314-c534f4a2be92",
+          "width": 56,
+          "x": -19,
+          "y": -94,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "268ad6e7-9baa-4885-85ff-45c208a01241",
+          "width": 56,
+          "x": 34,
+          "y": -348,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "b99cf3b9-546a-4e3b-a0ac-d4e8bfaa3ea1",
+          "width": 56,
+          "x": 286,
+          "y": -387,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "4cdf6b33-9c38-458f-9aa8-15a1dddd1a73",
+          "width": 56,
+          "x": 382,
+          "y": -311,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "8048fb8e-191f-4c67-95a0-a8da6036cd8d",
+          "width": 0,
+          "x": 862,
+          "y": -323,
+          "zOrder": 203,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "6ace534f-59a4-4886-8557-899735dd9413",
+          "width": 0,
+          "x": 780,
+          "y": -388,
+          "zOrder": 203,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "245eef5f-7860-47e8-ad41-1a41e2a9c071",
+          "width": 0,
+          "x": 299,
+          "y": 15,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "a1c3058d-bc56-4442-9a7d-6e7942602cd0",
+          "width": 0,
+          "x": 534,
+          "y": -329,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "df0672a4-087b-467a-96cb-d640af6cb230",
+          "width": 0,
+          "x": 637,
+          "y": -323,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "4943a47e-91e3-4dcc-9683-b96d36568354",
+          "width": 0,
+          "x": 2048,
+          "y": 335,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ammunitions",
+          "persistentUuid": "20c97260-6b37-4127-bda5-ffcb6c969415",
+          "width": 0,
+          "x": 2033,
+          "y": 528,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FirstAidKit",
+          "persistentUuid": "a53da33f-25f1-4d82-b8c7-3ec3796a0953",
+          "width": 0,
+          "x": 2232,
+          "y": 556,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "fe428fce-278b-4636-b3ef-b9a4ce046822",
+          "width": 56,
+          "x": 1502,
+          "y": 723,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "f5624816-eb94-48b5-8181-19d36225ec5a",
+          "width": 56,
+          "x": 2071,
+          "y": 627,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "8cb9139c-430d-4e3b-baee-56e34c42d3c3",
+          "width": 56,
+          "x": 2116,
+          "y": 675,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "bcb4ca85-638c-4a6a-b65b-9cc349343868",
+          "width": 56,
+          "x": 1981,
+          "y": 685,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "19644967-63a9-4e68-98f0-63de5f33a075",
+          "width": 56,
+          "x": 1740,
+          "y": 725,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "0d994ec9-8722-4dde-b0ef-f46beba15e03",
+          "width": 56,
+          "x": 1581,
+          "y": 675,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "aac61a34-d1e5-4342-82d0-cc97ea62034e",
+          "width": 56,
+          "x": 890,
+          "y": 762,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "5f7c2188-65ec-4d2c-9bfb-9dc8b309659f",
+          "width": 56,
+          "x": 99,
+          "y": -12,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "bf3d1d4b-6b5d-4dea-a233-854d2c156778",
+          "width": 56,
+          "x": 211,
+          "y": -55,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "a1c9e017-df69-4967-b361-7f05b89e4f56",
+          "width": 56,
+          "x": 82,
+          "y": -105,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "79f589ae-31ae-4242-a84f-44e338e8b70d",
+          "width": 56,
+          "x": -86,
+          "y": -189,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "54a47e10-c11d-4d5f-9bd0-4ff378ecb087",
+          "width": 56,
+          "x": 14,
+          "y": 70,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "96ea5114-b6ea-46a7-a37f-63a2f962c4a3",
+          "width": 56,
+          "x": 443,
+          "y": -48,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "ZombieSpawner",
+          "persistentUuid": "7649fa2c-ea4a-4a41-a96c-40a7b2fb5edd",
+          "width": 56,
+          "x": 1047,
+          "y": 777,
+          "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Phase",
+              "value": "2"
+            }
+          ]
         }
       ],
       "objects": [
@@ -11339,16 +12835,16 @@
           "variables": [],
           "behaviors": [
             {
+              "acceleration": 15,
+              "maxSpeed": 150,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 100,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "cellHeight": 20,
               "cellWidth": 20,
               "extraBorder": 0,
-              "maxSpeed": 100,
               "rotateObject": false
             }
           ],
@@ -13207,7 +14703,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Bullet.png",
+                      "image": "Images\\Projectiles\\Steel bullet.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13325,7 +14821,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "N'ai pas peur tu vas accéder au 2nd niveau, continu d'avancer",
+          "string": "N'aies pas peur tu vas accéder au 2nd niveau\nContinue d'avancer !",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -16115,7 +17611,7 @@
                 "Player",
                 "Ammo",
                 "+",
-                "10"
+                "5"
               ],
               "subInstructions": []
             },
