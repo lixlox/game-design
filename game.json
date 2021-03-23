@@ -2808,6 +2808,20 @@
         "metadata": "",
         "name": "Sounds\\bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_EyF92UUZ.mp3",
         "userAdded": true
+      },
+      {
+        "file": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_EyF92UUZ.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds/bruit-de-pas-21-courir-sur-un-sol-en-beton-bruitage-gratuit_EyF92UUZ.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Sounds/pas.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sounds/pas.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3469,7 +3483,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.154
+        "zoomFactor": 0.322
       },
       "objectsGroups": [],
       "variables": [
@@ -6996,7 +7010,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.133,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -7344,44 +7358,8 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.133,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Images\\Player\\tile117.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14.88,
-                            "y": 12.64
-                          },
-                          {
-                            "x": 46.88,
-                            "y": 13.92
-                          },
-                          {
-                            "x": 46.88,
-                            "y": 50.4
-                          },
-                          {
-                            "x": 16.2,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Images\\Player\\tile118.png",
@@ -7728,44 +7706,8 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.133,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Images\\Player\\tile104.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14.88,
-                            "y": 12.64
-                          },
-                          {
-                            "x": 46.88,
-                            "y": 13.92
-                          },
-                          {
-                            "x": 46.88,
-                            "y": 50.4
-                          },
-                          {
-                            "x": 16.2,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Images\\Player\\tile105.png",
@@ -8112,7 +8054,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.133,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -12266,6 +12208,17 @@
                 "1"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"pas\""
+              ],
+              "subInstructions": []
             }
           ],
           "events": [
@@ -16118,8 +16071,8 @@
               },
               "parameters": [
                 "",
-                "Sounds\\shoot background music.mp3",
-                "2\n",
+                "Sounds/pas.mp3",
+                "50",
                 "yes",
                 "30",
                 "1"
@@ -16189,6 +16142,189 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Right"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Up"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Down"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.535",
+                "\"pas\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sounds/pas.mp3",
+                "50",
+                "no",
+                "30",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"pas\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Up"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Down"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Right"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "50"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
