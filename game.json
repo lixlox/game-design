@@ -3492,7 +3492,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.31
+        "zoomFactor": 0.19
       },
       "objectsGroups": [],
       "variables": [
@@ -15095,6 +15095,18 @@
               },
               "parameters": [
                 "Phase",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "PhaseChangeEvent",
                 "=",
                 "1"
               ],
